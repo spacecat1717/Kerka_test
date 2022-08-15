@@ -2,7 +2,7 @@ import psycopg2
 from log_settings import LoggingSettings
 
 
-class UserCreation():
+class User():
     #TODO в конце поставить заглушки вместо данных ДБ
     logging = LoggingSettings()
     conn = psycopg2.connect(dbname='kerka_test_db',
@@ -90,9 +90,8 @@ class UserCreation():
             value = user_id
             self.cursor.execute(command, (user_id, ))
             res = self.cursor.fetchone()[0]
-            self.conn.commit()
             self.logging.logger_info.info(f'Block status of user {user_id} executed!')
-            return print(res)
+            return res
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
 
@@ -110,8 +109,30 @@ class UserCreation():
             self.logging.logger_info.info(f'User {user_id} was blocked!')
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
-    
 
-u = UserCreation()
+    def get_all_users(self):
+        self.logging.logger_info.info('Start getting all users info')
+        try:
+            command = (
+                """
+                SELECT user_id, username, is_admin, is_blocked FROM users
+                """
+            )
+            self.cursor.execute(command)
+            res = self.cursor.fetchall()
+            query = []
+            for i in res:
+                user = {'user_id': i[0],
+                'username': i[1],
+                'admin': i[2],
+                'blocked': i[3]}
+                query.append(user)
+            self.logging.logger_info.info('Data got')   
+            return query
+        except (Exception, psycopg2.DatabaseError) as error:
+            self.logging.logger_error.error('DB error:', error)
+
+u = User()
+u.get_all_users()
 
 

@@ -142,3 +142,15 @@
 2022-08-15 16:38:49,643 - info - INFO - User 999 was blocked!
 2022-08-15 16:38:49,644 - info - INFO - Checking block status for user 999
 2022-08-15 16:38:49,646 - info - INFO - Block status of user 999 executed!
+2022-08-15 16:54:31,499 - info - INFO - Users table is ready to work
+2022-08-15 16:54:31,501 - info - INFO - Start getting all users info
+2022-08-15 16:54:31,504 - info - INFO - Data got
+2022-08-15 16:56:27,043 - info - INFO - Users table is ready to work
+2022-08-15 16:56:27,046 - info - INFO - Start getting all users info
+2022-08-15 16:56:27,049 - info - INFO - Data got
+2022-08-15 16:58:36,333 - info - INFO - Users table is ready to work
+2022-08-15 16:58:36,335 - info - INFO - Start getting all users info
+2022-08-15 16:58:36,338 - info - INFO - Data got
+2022-08-15 16:59:01,771 - info - INFO - Users table is ready to work
+2022-08-15 16:59:01,773 - info - INFO - Start getting all users info
+2022-08-15 16:59:01,777 - info - INFO - Data got
