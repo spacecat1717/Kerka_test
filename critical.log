@@ -133,3 +133,14 @@ LINE 3: ...                                  VALUES (nextval(user_seque...
                                                              ^
 
 2022-08-15 15:53:39,394 - warning - WARNING - 'int' object does not support indexing
+2022-08-15 17:40:14,859 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: "CREATE")
+LINE 4:                 CREATE TABLE IF NOT EXISTS users (
+                        ^
+
+2022-08-15 17:40:39,181 - critical - CRITICAL - ОШИБКА:  INSERT содержит больше выражений, чем целевых столбцов
+LINE 3: ...ES (nextval('user_sequence'), 666, 'test6', 0, false, false)
+                                                                 ^
+
+2022-08-15 18:56:19,530 - warning - WARNING - Заблокированный пользователь 312472285 пытался подключиться к боту!
+2022-08-15 19:25:56,000 - warning - WARNING - Пользователь 312472285 пытался зайти в админ-панель!
+2022-08-15 19:27:10,903 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285

@@ -11,11 +11,13 @@ class User():
     def __init__(self):
         try:
             commands = (
+
                 """
                 CREATE TABLE IF NOT EXISTS users (
                     id INTEGER PRIMARY KEY,
                     user_id BIGINT NOT NULL,
                     username VARCHAR(255) NOT NULL,
+                    balance BIGINT,
                     is_admin BOOLEAN,
                     is_blocked BOOLEAN
                 )
@@ -34,14 +36,30 @@ class User():
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_crit.critical(error)
 
-    def create_user(self, user_id, username, is_admin=False, is_blocked=False):
+    def check_user_exists(self, user_id):
+        self.logging.logger_info.info(f'Trying to find user {user_id} in DB')
+        command = (
+            """
+            SELECT user_id FROM users WHERE user_id = %s
+            """
+        )
+        value = (user_id, )
+        self.cursor.execute(command, value)
+        if self.cursor.fetchone() is not None:
+            self.logging.logger_info.info(f'User{user_id} exists')
+            return True
+        self.logging.logger_info.info(f'User {user_id} does not exists')
+        return False
+
+
+    def create_user(self, user_id, username, balance=0, is_admin=False, is_blocked=False):
         try:
             command = (
                 """
-                INSERT INTO users (ID, USER_ID, USERNAME, IS_ADMIN, IS_BLOCKED) 
-                                    VALUES (nextval('user_sequence'), %s, %s, %s, %s)
+                INSERT INTO users (ID, USER_ID, USERNAME, BALANCE, IS_ADMIN, IS_BLOCKED) 
+                                    VALUES (nextval('user_sequence'), %s, %s, %s, %s, %s)
                 """)
-            values = (user_id, username, is_admin, is_blocked, )
+            values = (user_id, username, balance, is_admin, is_blocked)
             self.cursor.execute(command, values)
             self.conn.commit()
             self.logging.logger_info.info(f'User{user_id}, {username} was created in DB')
@@ -96,7 +114,6 @@ class User():
             self.logging.logger_error.error('DB error:', error)
 
     def set_block(self, user_id):
-        self.logging.logger_info.info(f'Checking block status for user {user_id}')
         try:
             command = (
                 """
@@ -110,12 +127,26 @@ class User():
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
 
+    def remove_block(self, user_id):
+        try:
+            command = (
+                """
+                UPDATE users SET is_blocked = %s WHERE user_id = %s
+                """
+            )
+            values = (False, user_id)
+            self.cursor.execute(command, values)
+            self.conn.commit()
+            self.logging.logger_info.info(f'User {user_id} was unblocked!')
+        except (Exception, psycopg2.DatabaseError) as error:
+            self.logging.logger_error.error('DB error:', error)
+
     def get_all_users(self):
         self.logging.logger_info.info('Start getting all users info')
         try:
             command = (
                 """
-                SELECT user_id, username, is_admin, is_blocked FROM users
+                SELECT user_id, username, balance, is_admin, is_blocked FROM users
                 """
             )
             self.cursor.execute(command)
@@ -124,15 +155,44 @@ class User():
             for i in res:
                 user = {'user_id': i[0],
                 'username': i[1],
-                'admin': i[2],
-                'blocked': i[3]}
+                'balance': i[2],
+                'admin': i[3],
+                'blocked': i[4]}
                 query.append(user)
             self.logging.logger_info.info('Data got')   
             return query
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
 
-u = User()
-u.get_all_users()
+    def get_user_balance(self, user_id):
+        self.logging.logger_info.info(f'Trying to get balance of user {user_id}')
+        try:
+            command = (
+                """
+                SELECT balance FROM users WHERE user_id = %s
+                """
+            )
+            self.cursor.execute(command, (user_id, ))
+            res = self.cursor.fetchone()[0]
+            self.logging.logger_info.info(f'Balance of user {user_id} got')
+            return print(res)
+        except (Exception, psycopg2.DatabaseError) as error:
+            self.logging.logger_error.error('DB error:', error)
+
+    def change_user_balance(self, user_id, summ):
+        self.logging.logger_info.info(f'Changing balance of user {user_id}')
+        try:
+            command = (
+                """UPDATE users SET balance = %s WHERE user_id = %s
+                """
+            )
+            values = (summ, user_id)
+            self.cursor.execute(command, values)
+            self.logging.logger_info.info(f'Balance of user {user_id} was changed')
+        except (Exception, psycopg2.DatabaseError) as error:
+            self.logging.logger_error.error('DB error:', error)
+
+
+
 
 

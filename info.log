@@ -154,3 +154,116 @@
 2022-08-15 16:59:01,771 - info - INFO - Users table is ready to work
 2022-08-15 16:59:01,773 - info - INFO - Start getting all users info
 2022-08-15 16:59:01,777 - info - INFO - Data got
+2022-08-15 17:40:39,170 - info - INFO - Users table is ready to work
+2022-08-15 17:41:10,892 - info - INFO - Users table is ready to work
+2022-08-15 17:41:10,913 - info - INFO - User666, test6 was created in DB
+2022-08-15 17:41:38,566 - info - INFO - Users table is ready to work
+2022-08-15 17:41:38,572 - info - INFO - Start getting all users info
+2022-08-15 17:41:38,577 - info - INFO - Data got
+2022-08-15 17:41:51,879 - info - INFO - Users table is ready to work
+2022-08-15 17:41:51,882 - info - INFO - Start getting all users info
+2022-08-15 17:41:51,885 - info - INFO - Data got
+2022-08-15 17:42:45,833 - info - INFO - Users table is ready to work
+2022-08-15 17:42:45,835 - info - INFO - Start getting all users info
+2022-08-15 17:42:45,838 - info - INFO - Data got
+2022-08-15 17:42:55,375 - info - INFO - Users table is ready to work
+2022-08-15 17:42:55,387 - info - INFO - Start getting all users info
+2022-08-15 17:42:55,390 - info - INFO - Data got
+2022-08-15 17:46:19,961 - info - INFO - Users table is ready to work
+2022-08-15 17:46:19,964 - info - INFO - Start getting all users info
+2022-08-15 17:46:19,967 - info - INFO - Data got
+2022-08-15 17:46:38,742 - info - INFO - Users table is ready to work
+2022-08-15 17:46:38,754 - info - INFO - Trying to get balance of user 666
+2022-08-15 17:46:38,759 - info - INFO - Balance of user 666 got
+2022-08-15 17:50:33,349 - info - INFO - Users table is ready to work
+2022-08-15 17:50:33,352 - info - INFO - Changing balance of user 666
+2022-08-15 17:50:33,356 - info - INFO - Balance of user 666 was changed
+2022-08-15 17:50:33,357 - info - INFO - Trying to get balance of user 666
+2022-08-15 17:50:33,358 - info - INFO - Balance of user 666 got
+2022-08-15 18:19:35,723 - info - INFO - Users table is ready to work
+2022-08-15 18:19:35,723 - info - INFO - Changing balance of user 666
+2022-08-15 18:19:35,729 - info - INFO - Balance of user 666 was changed
+2022-08-15 18:19:35,729 - info - INFO - Trying to get balance of user 666
+2022-08-15 18:19:35,731 - info - INFO - Balance of user 666 got
+2022-08-15 18:19:35,797 - info - INFO - Users table is ready to work
+2022-08-15 18:19:54,477 - info - INFO - Users table is ready to work
+2022-08-15 18:19:54,478 - info - INFO - Changing balance of user 666
+2022-08-15 18:19:54,485 - info - INFO - Balance of user 666 was changed
+2022-08-15 18:19:54,485 - info - INFO - Trying to get balance of user 666
+2022-08-15 18:19:54,486 - info - INFO - Balance of user 666 got
+2022-08-15 18:19:54,562 - info - INFO - Users table is ready to work
+2022-08-15 18:26:33,769 - info - INFO - Users table is ready to work
+2022-08-15 18:26:33,771 - info - INFO - Changing balance of user 666
+2022-08-15 18:26:33,784 - info - INFO - Balance of user 666 was changed
+2022-08-15 18:26:33,785 - info - INFO - Trying to find user 666 in DB
+2022-08-15 18:26:33,787 - info - INFO - User666 exists
+2022-08-15 18:26:33,788 - info - INFO - Trying to find user 111 in DB
+2022-08-15 18:26:33,790 - info - INFO - User 111 does not exists
+2022-08-15 18:29:04,587 - info - INFO - Users table is ready to work
+2022-08-15 18:29:04,588 - info - INFO - Changing balance of user 666
+2022-08-15 18:29:04,591 - info - INFO - Balance of user 666 was changed
+2022-08-15 18:29:04,592 - info - INFO - Trying to find user 666 in DB
+2022-08-15 18:29:04,593 - info - INFO - User666 exists
+2022-08-15 18:29:04,593 - info - INFO - Trying to find user 111 in DB
+2022-08-15 18:29:04,594 - info - INFO - User 111 does not exists
+2022-08-15 18:29:04,645 - info - INFO - Users table is ready to work
+2022-08-15 18:31:55,139 - info - INFO - Users table is ready to work
+2022-08-15 18:38:15,991 - info - INFO - Users table is ready to work
+2022-08-15 18:38:37,914 - info - INFO - Users table is ready to work
+2022-08-15 18:42:26,509 - info - INFO - Users table is ready to work
+2022-08-15 18:45:13,921 - info - INFO - Users table is ready to work
+2022-08-15 18:46:49,289 - info - INFO - Users table is ready to work
+2022-08-15 18:47:45,988 - info - INFO - Users table is ready to work
+2022-08-15 18:48:25,960 - info - INFO - Users table is ready to work
+2022-08-15 18:48:52,830 - info - INFO - Users table is ready to work
+2022-08-15 18:51:33,478 - info - INFO - Users table is ready to work
+2022-08-15 18:51:38,077 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:51:38,080 - info - INFO - User 312472285 does not exists
+2022-08-15 18:51:38,108 - info - INFO - User312472285, m. was created in DB
+2022-08-15 18:53:14,155 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:53:14,159 - info - INFO - User312472285 exists
+2022-08-15 18:53:40,651 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:53:40,653 - info - INFO - User312472285 exists
+2022-08-15 18:54:14,768 - info - INFO - Users table is ready to work
+2022-08-15 18:54:17,663 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:54:17,668 - info - INFO - User312472285 exists
+2022-08-15 18:54:17,668 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:54:17,670 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 18:54:53,703 - info - INFO - Users table is ready to work
+2022-08-15 18:54:57,289 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:54:57,294 - info - INFO - User312472285 exists
+2022-08-15 18:54:57,295 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:54:57,297 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 18:56:07,922 - info - INFO - Users table is ready to work
+2022-08-15 18:56:07,924 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:56:07,965 - info - INFO - User 312472285 was blocked!
+2022-08-15 18:56:14,312 - info - INFO - Users table is ready to work
+2022-08-15 18:56:14,313 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:56:14,332 - info - INFO - User 312472285 was blocked!
+2022-08-15 18:56:14,381 - info - INFO - Users table is ready to work
+2022-08-15 18:56:19,375 - info - INFO - Trying to find user 312472285 in DB
+2022-08-15 18:56:19,377 - info - INFO - User312472285 exists
+2022-08-15 18:56:19,377 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:56:19,378 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 18:59:55,718 - info - INFO - Users table is ready to work
+2022-08-15 18:59:55,754 - info - INFO - User 312472285 was unblocked!
+2022-08-15 18:59:55,756 - info - INFO - Checking block status for user 312472285
+2022-08-15 18:59:55,758 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 19:00:17,930 - info - INFO - Users table is ready to work
+2022-08-15 19:00:17,966 - info - INFO - User 312472285 was unblocked!
+2022-08-15 19:00:17,968 - info - INFO - Checking block status for user 312472285
+2022-08-15 19:00:17,972 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 19:16:04,287 - info - INFO - Users table is ready to work
+2022-08-15 19:16:40,067 - info - INFO - Users table is ready to work
+2022-08-15 19:20:51,853 - info - INFO - Users table is ready to work
+2022-08-15 19:23:48,650 - info - INFO - Users table is ready to work
+2022-08-15 19:25:03,090 - info - INFO - Users table is ready to work
+2022-08-15 19:25:52,773 - info - INFO - Users table is ready to work
+2022-08-15 19:25:55,910 - info - INFO - Checking block status for user 312472285
+2022-08-15 19:25:55,914 - info - INFO - Block status of user 312472285 executed!
+2022-08-15 19:26:35,607 - info - INFO - Users table is ready to work
+2022-08-15 19:26:37,767 - info - INFO - Giving an admin status to user 312472285
+2022-08-15 19:26:37,806 - info - INFO - User 312472285 id admin now!
+2022-08-15 19:27:08,380 - info - INFO - Users table is ready to work
+2022-08-15 19:27:10,783 - info - INFO - Giving an admin status to user 312472285
+2022-08-15 19:27:10,819 - info - INFO - User 312472285 id admin now!
