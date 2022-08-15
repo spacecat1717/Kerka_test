@@ -1,0 +1,144 @@
+
+2022-08-13 19:33:27,339 - info - INFO - Это информационное сообщение
+2022-08-13 19:34:36,542 - info - INFO - Это информационное сообщение
+2022-08-13 19:35:28,020 - info - INFO - Это информационное сообщение
+2022-08-13 19:41:34,698 - info - INFO - Это информационное сообщение
+2022-08-13 19:41:34,700 - info - INFO - info
+2022-08-13 19:42:02,669 - info - INFO - info
+2022-08-13 21:33:30,167 - info - INFO - connected to DB
+2022-08-13 21:50:26,385 - info - INFO - connected to existing DB
+2022-08-13 22:08:30,460 - info - INFO - Connected to DB
+2022-08-15 11:34:35,830 - info - INFO - Connected to DB
+2022-08-15 11:34:50,225 - info - INFO - Connected to DB
+2022-08-15 11:54:30,229 - info - INFO - Connected to DB
+2022-08-15 11:54:48,557 - info - INFO - Connected to DB
+2022-08-15 11:55:19,595 - info - INFO - Connected to DB
+2022-08-15 11:57:55,846 - info - INFO - Connected to DB
+2022-08-15 11:58:07,055 - info - INFO - Connected to DB
+2022-08-15 11:58:53,409 - info - INFO - Connected to DB
+2022-08-15 11:59:20,023 - info - INFO - Connected to DB
+2022-08-15 11:59:20,027 - info - INFO - Users table was created
+2022-08-15 11:59:47,751 - info - INFO - Connected to DB
+2022-08-15 11:59:47,755 - info - INFO - Users table is ready to work
+2022-08-15 12:18:33,519 - info - INFO - Connected to DB
+2022-08-15 12:18:33,523 - info - INFO - Users table is ready to work
+2022-08-15 12:18:47,181 - info - INFO - Connected to DB
+2022-08-15 12:18:47,187 - info - INFO - Users table is ready to work
+2022-08-15 12:19:14,883 - info - INFO - Connected to DB
+2022-08-15 12:19:14,888 - info - INFO - Users table is ready to work
+2022-08-15 12:31:49,184 - info - INFO - Users table is ready to work
+2022-08-15 12:32:07,479 - info - INFO - Users table is ready to work
+2022-08-15 12:34:10,755 - info - INFO - Users table is ready to work
+2022-08-15 12:34:27,746 - info - INFO - Users table is ready to work
+2022-08-15 12:36:41,495 - info - INFO - Users table is ready to work
+2022-08-15 12:37:28,535 - info - INFO - Users table is ready to work
+2022-08-15 12:55:41,016 - info - INFO - Users table is ready to work
+2022-08-15 12:59:23,957 - info - INFO - Users table is ready to work
+2022-08-15 13:07:08,985 - info - INFO - Users table is ready to work
+2022-08-15 13:12:12,841 - info - INFO - Users table is ready to work
+2022-08-15 13:13:02,463 - info - INFO - Users table is ready to work
+2022-08-15 13:13:27,850 - info - INFO - Users table is ready to work
+2022-08-15 13:14:58,219 - info - INFO - Users table is ready to work
+2022-08-15 13:15:25,637 - info - INFO - Users table is ready to work
+2022-08-15 13:16:50,956 - info - INFO - Users table is ready to work
+2022-08-15 13:18:02,628 - info - INFO - Users table is ready to work
+2022-08-15 13:19:07,732 - info - INFO - Users table is ready to work
+2022-08-15 13:19:50,634 - info - INFO - Users table is ready to work
+2022-08-15 13:23:04,410 - info - INFO - Users table is ready to work
+2022-08-15 13:23:47,702 - info - INFO - Users table is ready to work
+2022-08-15 13:28:13,775 - info - INFO - Users table is ready to work
+2022-08-15 13:28:44,222 - info - INFO - Users table is ready to work
+2022-08-15 13:30:31,429 - info - INFO - Users table is ready to work
+2022-08-15 13:31:29,319 - info - INFO - Users table is ready to work
+2022-08-15 13:32:26,967 - info - INFO - Users table is ready to work
+2022-08-15 13:32:45,157 - info - INFO - Users table is ready to work
+2022-08-15 13:32:45,188 - info - INFO - User created
+2022-08-15 13:48:02,624 - info - INFO - Users table is ready to work
+2022-08-15 13:48:14,202 - info - INFO - Users table is ready to work
+2022-08-15 13:48:56,161 - info - INFO - Users table is ready to work
+2022-08-15 13:49:51,264 - info - INFO - Users table is ready to work
+2022-08-15 13:54:50,435 - info - INFO - Users table is ready to work
+2022-08-15 13:54:50,445 - info - INFO - User created
+2022-08-15 13:55:02,902 - info - INFO - Users table is ready to work
+2022-08-15 13:55:02,935 - info - INFO - User created
+2022-08-15 13:55:02,938 - info - INFO - User[(3, 555555, 'test1', False, False)] was created
+2022-08-15 13:55:22,915 - info - INFO - Users table is ready to work
+2022-08-15 13:55:22,924 - info - INFO - User created
+2022-08-15 13:55:22,927 - info - INFO - User[('test1',)] was created
+2022-08-15 13:55:32,359 - info - INFO - Users table is ready to work
+2022-08-15 13:55:32,369 - info - INFO - User created
+2022-08-15 13:55:32,371 - info - INFO - User[(555555, 'test1')] was created
+2022-08-15 13:57:44,360 - info - INFO - Users table is ready to work
+2022-08-15 13:57:44,364 - info - INFO - User[] was created
+2022-08-15 13:58:05,392 - info - INFO - Users table is ready to work
+2022-08-15 13:58:05,465 - info - INFO - User555555, test1 was created
+2022-08-15 13:58:05,469 - info - INFO - User[(555555, 'test1')] was created
+2022-08-15 13:58:45,755 - info - INFO - Users table is ready to work
+2022-08-15 13:58:45,789 - info - INFO - User77777, test2 was created
+2022-08-15 13:58:45,794 - info - INFO - Users: [(555555, 'test1'), (77777, 'test2')]
+2022-08-15 15:53:39,387 - info - INFO - Users table is ready to work
+2022-08-15 15:53:39,390 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 15:54:21,584 - info - INFO - Users table is ready to work
+2022-08-15 15:54:21,586 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 15:56:14,768 - info - INFO - Users table is ready to work
+2022-08-15 15:56:14,770 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 15:56:14,803 - info - INFO - Admin status for user 77777 executed!
+2022-08-15 15:56:52,594 - info - INFO - Users table is ready to work
+2022-08-15 15:56:52,596 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 15:56:52,600 - info - INFO - Admin status for user 77777 executed!
+2022-08-15 16:02:22,953 - info - INFO - Users table is ready to work
+2022-08-15 16:02:22,955 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:03:12,843 - info - INFO - Users table is ready to work
+2022-08-15 16:03:12,846 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:03:34,464 - info - INFO - Users table is ready to work
+2022-08-15 16:03:34,468 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:03:52,017 - info - INFO - Users table is ready to work
+2022-08-15 16:03:52,020 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:04:24,043 - info - INFO - Users table is ready to work
+2022-08-15 16:04:24,046 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:09:19,274 - info - INFO - Users table is ready to work
+2022-08-15 16:09:19,276 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:09:32,312 - info - INFO - Users table is ready to work
+2022-08-15 16:09:32,314 - info - INFO - Giving an admin status to user 77777
+2022-08-15 16:09:32,351 - info - INFO - User 77777 id admin now!
+2022-08-15 16:09:45,841 - info - INFO - Users table is ready to work
+2022-08-15 16:09:45,844 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 16:09:45,848 - info - INFO - Admin status for user 77777 executed!
+2022-08-15 16:10:01,267 - info - INFO - Users table is ready to work
+2022-08-15 16:10:01,269 - info - INFO - Trying to execute admin status for user 77777
+2022-08-15 16:10:01,272 - info - INFO - Admin status for user 77777 executed!
+2022-08-15 16:20:50,526 - info - INFO - Users table is ready to work
+2022-08-15 16:20:50,529 - info - INFO - Cheching block status for user 77777
+2022-08-15 16:20:50,533 - info - INFO - Block status of user 77777 executed!
+2022-08-15 16:21:51,293 - info - INFO - Users table is ready to work
+2022-08-15 16:21:51,297 - info - INFO - Cheching block status for user 77777
+2022-08-15 16:21:51,301 - info - INFO - Block status of user 77777 executed!
+2022-08-15 16:25:23,984 - info - INFO - Users table is ready to work
+2022-08-15 16:25:35,127 - info - INFO - Users table is ready to work
+2022-08-15 16:25:35,173 - info - INFO - User88888, rrrr was created in DB
+2022-08-15 16:25:35,174 - info - INFO - Cheching block status for user 77777
+2022-08-15 16:25:35,179 - info - INFO - Block status of user 77777 executed!
+2022-08-15 16:26:41,456 - info - INFO - Users table is ready to work
+2022-08-15 16:26:41,459 - info - INFO - Checking block status for user 88888
+2022-08-15 16:26:41,464 - info - INFO - Block status of user 88888 executed!
+2022-08-15 16:26:57,409 - info - INFO - Users table is ready to work
+2022-08-15 16:26:57,412 - info - INFO - Trying to execute admin status for user 88888
+2022-08-15 16:26:57,420 - info - INFO - Admin status for user 88888 executed!
+2022-08-15 16:27:09,242 - info - INFO - Users table is ready to work
+2022-08-15 16:27:09,244 - info - INFO - Trying to execute admin status for user 88888
+2022-08-15 16:27:09,252 - info - INFO - Admin status for user 88888 executed!
+2022-08-15 16:28:41,897 - info - INFO - Users table is ready to work
+2022-08-15 16:28:41,937 - info - INFO - User999, hhh was created in DB
+2022-08-15 16:28:59,078 - info - INFO - Users table is ready to work
+2022-08-15 16:28:59,081 - info - INFO - Checking block status for user 999
+2022-08-15 16:28:59,103 - info - INFO - Block status of user 999 executed!
+2022-08-15 16:30:21,756 - info - INFO - Users table is ready to work
+2022-08-15 16:30:21,758 - info - INFO - Checking block status for user 999
+2022-08-15 16:30:21,769 - info - INFO - Block status of user 999 executed!
+2022-08-15 16:38:18,295 - info - INFO - Users table is ready to work
+2022-08-15 16:38:18,297 - info - INFO - Checking block status for user 999
+2022-08-15 16:38:49,605 - info - INFO - Users table is ready to work
+2022-08-15 16:38:49,607 - info - INFO - Checking block status for user 999
+2022-08-15 16:38:49,643 - info - INFO - User 999 was blocked!
+2022-08-15 16:38:49,644 - info - INFO - Checking block status for user 999
+2022-08-15 16:38:49,646 - info - INFO - Block status of user 999 executed!

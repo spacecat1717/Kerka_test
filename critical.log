@@ -1,0 +1,135 @@
+
+2022-08-13 19:33:27,335 - critical - CRITICAL - Это критикал
+2022-08-13 19:34:36,538 - critical - CRITICAL - Это критикал
+2022-08-13 19:35:28,005 - critical - CRITICAL - Это критикал
+2022-08-13 19:35:28,011 - warning - WARNING - Это варнинг
+2022-08-13 19:35:28,016 - error - ERROR - Это эррор
+2022-08-13 19:41:34,693 - critical - CRITICAL - Это критикал
+2022-08-13 19:41:34,695 - warning - WARNING - Это варнинг
+2022-08-13 19:41:34,697 - error - ERROR - Это эррор
+2022-08-13 19:41:34,699 - critical - CRITICAL - crit
+2022-08-13 19:42:02,667 - critical - CRITICAL - crit
+2022-08-13 21:28:43,989 - critical - CRITICAL - DB connection failed!
+2022-08-13 21:31:07,301 - critical - CRITICAL - DB connection failed!
+2022-08-13 21:31:47,746 - critical - CRITICAL - DB connection failed!
+2022-08-13 21:33:18,761 - critical - CRITICAL - DB connection failed!
+2022-08-13 21:55:09,920 - critical - CRITICAL - DB creation failed!
+2022-08-13 21:55:29,608 - critical - CRITICAL - DB creation failed!
+2022-08-13 21:59:22,629 - critical - CRITICAL - DB creation failed!
+2022-08-13 22:01:16,352 - critical - CRITICAL - DB creation failed!
+2022-08-13 22:05:30,744 - critical - CRITICAL - DB creation failed!
+2022-08-13 22:06:11,436 - critical - CRITICAL - DB creation failed!
+2022-08-15 11:35:10,235 - critical - CRITICAL - connection to server at "localhost" (::1), port 5432 failed: ВАЖНО:  база данных "kerka_test_d" не существует
+
+2022-08-15 11:54:30,252 - critical - CRITICAL - 'psycopg2.extensions.connection' object has no attribute 'excecute'
+2022-08-15 11:54:48,559 - critical - CRITICAL - 'psycopg2.extensions.connection' object has no attribute 'execute'
+2022-08-15 11:55:19,704 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: ")")
+LINE 6:                 )
+                        ^
+
+2022-08-15 11:57:55,882 - critical - CRITICAL - argument 1 must be a string or unicode object: got tuple instead
+2022-08-15 11:58:53,438 - critical - CRITICAL - ОШИБКА:  отношение "users" уже существует
+
+2022-08-15 12:18:47,191 - critical - CRITICAL - 'UserCreation' object has no attribute 'cursor'
+2022-08-15 12:19:14,889 - critical - CRITICAL - name 'cursor' is not defined
+2022-08-15 12:19:47,283 - critical - CRITICAL - name 'conn' is not defined
+2022-08-15 12:19:47,286 - critical - CRITICAL - 'UserCreation' object has no attribute 'cursor'
+2022-08-15 12:19:47,287 - critical - CRITICAL - 'UserCreation' object has no attribute 'cursor'
+2022-08-15 12:21:14,520 - critical - CRITICAL - 'psycopg2.extensions.connection' object is not callable
+2022-08-15 12:21:14,522 - critical - CRITICAL - name 'cursor' is not defined
+2022-08-15 12:21:14,553 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:31:49,186 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:32:07,482 - critical - CRITICAL - unsupported format character 'i' (0x69) at index 85
+2022-08-15 12:34:10,759 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: "VALUE")
+LINE 2: ...O users (USER_ID, USERNAME, IS_ADMIN, IS_BLOCKED) VALUE (123...
+                                                             ^
+
+2022-08-15 12:34:27,809 - critical - CRITICAL - ОШИБКА:  значение NULL в столбце "id" отношения "users" нарушает ограничение NOT NULL
+DETAIL:  Ошибочная строка содержит (null, 1233456, test, t, f).
+
+2022-08-15 12:36:41,500 - critical - CRITICAL - ОШИБКА:  INSERT содержит больше целевых столбцов, чем выражений
+LINE 2: ...SERT INTO users (ID, USER_ID, USERNAME, IS_ADMIN, IS_BLOCKED...
+                                                             ^
+
+2022-08-15 12:37:28,538 - critical - CRITICAL - tuple index out of range
+2022-08-15 12:49:50,990 - critical - CRITICAL - name 'command' is not defined
+2022-08-15 12:49:50,996 - critical - CRITICAL - ОШИБКА:  INSERT содержит больше целевых столбцов, чем выражений
+LINE 2: ...SERT INTO users (ID, USER_ID, USERNAME, IS_ADMIN, IS_BLOCKED...
+                                                             ^
+
+2022-08-15 12:50:03,739 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: "AUTOINCREMENT")
+LINE 3:                     id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                                   ^
+
+2022-08-15 12:50:03,759 - critical - CRITICAL - ОШИБКА:  текущая транзакция прервана, команды до конца блока транзакции игнорируются
+
+2022-08-15 12:54:05,457 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: "AUTOINCREMENT")
+LINE 3:                     id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                                   ^
+
+2022-08-15 12:54:54,326 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: "user_id")
+LINE 4:                     user_id BIGINT NOT NULL,
+                            ^
+
+2022-08-15 12:54:54,329 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:55:30,462 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: ":")
+LINE 4:                 increment 1:
+                                   ^
+
+2022-08-15 12:55:30,464 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:55:41,019 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:56:20,475 - critical - CRITICAL - ОШИБКА:  отношение "user_sequence" уже существует
+
+2022-08-15 12:56:20,478 - critical - CRITICAL - not all arguments converted during string formatting
+2022-08-15 12:58:28,005 - critical - CRITICAL - ОШИБКА:  отношение "user_sequence" уже существует
+
+2022-08-15 12:58:28,009 - critical - CRITICAL - tuple index out of range
+2022-08-15 12:59:23,960 - critical - CRITICAL - tuple index out of range
+2022-08-15 13:07:08,988 - critical - CRITICAL - tuple index out of range
+2022-08-15 13:12:12,845 - critical - CRITICAL - tuple index out of range
+2022-08-15 13:13:02,467 - critical - CRITICAL - can't adapt type 'builtin_function_or_method'
+2022-08-15 13:13:27,852 - critical - CRITICAL - can't adapt type 'builtin_function_or_method'
+2022-08-15 13:14:58,223 - critical - CRITICAL - can't adapt type 'builtin_function_or_method'
+2022-08-15 13:15:25,639 - critical - CRITICAL - name 'nextval' is not defined
+2022-08-15 13:16:50,960 - critical - CRITICAL - can't adapt type 'builtin_function_or_method'
+2022-08-15 13:18:02,632 - critical - CRITICAL - can't adapt type 'builtin_function_or_method'
+2022-08-15 13:19:07,736 - critical - CRITICAL - ОШИБКА:  столбец "user_id" не существует
+LINE 3: ...                                 VALUES (DEFAULT, user_id, u...
+                                                             ^
+HINT:  Столбец "user_id" есть в таблице "users", но на него нельзя ссылаться из этой части запроса.
+
+2022-08-15 13:19:50,638 - critical - CRITICAL - ОШИБКА:  неверный синтаксис для типа bigint: "user_id"
+LINE 3: ...                                 VALUES (DEFAULT, 'user_id',...
+                                                             ^
+
+2022-08-15 13:23:04,414 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: ",")
+LINE 3: ...                                VALUES (DEFAULT, ?, ?, ?, ?)
+                                                             ^
+
+2022-08-15 13:23:47,707 - critical - CRITICAL - ОШИБКА:  ошибка синтаксиса (примерное положение: ")")
+LINE 3:                                     VALUES (DEFAULT ? ? ? ?)
+                                                                   ^
+
+2022-08-15 13:28:13,781 - critical - CRITICAL - ОШИБКА:  значение NULL в столбце "id" отношения "users" нарушает ограничение NOT NULL
+DETAIL:  Ошибочная строка содержит (null, 1233456, test, t, f).
+
+2022-08-15 13:28:44,228 - critical - CRITICAL - ОШИБКА:  значение NULL в столбце "id" отношения "users" нарушает ограничение NOT NULL
+DETAIL:  Ошибочная строка содержит (null, 1233456, test, t, f).
+
+2022-08-15 13:30:31,438 - critical - CRITICAL - ОШИБКА:  столбец "user_sequence" не существует
+LINE 3: ...                                  VALUES (nextval(user_seque...
+                                                             ^
+
+2022-08-15 13:31:29,325 - critical - CRITICAL - ОШИБКА:  столбец "user_sequence" не существует
+LINE 3: ...                                  VALUES (nextval(user_seque...
+                                                             ^
+
+2022-08-15 13:32:17,525 - critical - CRITICAL - ОШИБКА:  отношение "user_sequence" уже существует
+
+2022-08-15 13:32:17,529 - critical - CRITICAL - ОШИБКА:  текущая транзакция прервана, команды до конца блока транзакции игнорируются
+
+2022-08-15 13:32:26,971 - critical - CRITICAL - ОШИБКА:  столбец "user_sequence" не существует
+LINE 3: ...                                  VALUES (nextval(user_seque...
+                                                             ^
+
+2022-08-15 15:53:39,394 - warning - WARNING - 'int' object does not support indexing
