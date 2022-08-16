@@ -144,3 +144,196 @@ LINE 3: ...ES (nextval('user_sequence'), 666, 'test6', 0, false, false)
 2022-08-15 18:56:19,530 - warning - WARNING - Заблокированный пользователь 312472285 пытался подключиться к боту!
 2022-08-15 19:25:56,000 - warning - WARNING - Пользователь 312472285 пытался зайти в админ-панель!
 2022-08-15 19:27:10,903 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
+2022-08-16 11:40:32,549 - warning - WARNING - User 555 does not exists!
+2022-08-16 11:45:12,605 - error - ERROR - User 555 dos not exists!
+2022-08-16 11:47:15,053 - warning - WARNING - User555 does not exists!
+2022-08-16 11:49:42,410 - error - ERROR - User555 des not exists!
+2022-08-16 11:50:07,538 - error - ERROR - User555 des not exists!
+2022-08-16 12:04:01,296 - error - ERROR - User555 does not exists!
+2022-08-16 12:21:53,980 - critical - CRITICAL - cursor already closed
+2022-08-16 12:21:53,982 - critical - CRITICAL - cursor already closed
+2022-08-16 12:21:53,986 - critical - CRITICAL - cursor already closed
+2022-08-16 12:21:53,987 - error - ERROR - User 666 does not exists!
+2022-08-16 12:21:53,987 - critical - CRITICAL - cursor already closed
+2022-08-16 12:21:53,998 - critical - CRITICAL - cursor already closed
+2022-08-16 12:23:45,879 - critical - CRITICAL - cursor already closed
+2022-08-16 12:23:45,881 - critical - CRITICAL - cursor already closed
+2022-08-16 12:23:45,883 - critical - CRITICAL - cursor already closed
+2022-08-16 12:23:45,884 - critical - CRITICAL - cursor already closed
+2022-08-16 12:23:45,885 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,368 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,372 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,374 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,374 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,375 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,375 - error - ERROR - User 666 does not exists!
+2022-08-16 12:24:05,376 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,376 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,377 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,392 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,392 - critical - CRITICAL - cursor already closed
+2022-08-16 12:24:05,392 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,803 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,803 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,804 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,816 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,816 - critical - CRITICAL - cursor already closed
+2022-08-16 12:25:02,817 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,899 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,899 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,900 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,913 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,913 - critical - CRITICAL - cursor already closed
+2022-08-16 12:28:33,913 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,467 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,467 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,467 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,483 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,484 - critical - CRITICAL - cursor already closed
+2022-08-16 12:35:22,484 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,339 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,344 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,345 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,397 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,401 - critical - CRITICAL - cursor already closed
+2022-08-16 12:36:44,403 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,633 - error - ERROR - User222 is already admin!
+2022-08-16 12:38:24,720 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,720 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,720 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,729 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,730 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:24,730 - critical - CRITICAL - cursor already closed
+2022-08-16 12:38:41,689 - error - ERROR - User222 is already admin!
+2022-08-16 12:39:00,139 - critical - CRITICAL - cursor already closed
+2022-08-16 12:39:00,149 - critical - CRITICAL - cursor already closed
+2022-08-16 12:39:38,247 - warning - WARNING - User 111 does not exists!
+2022-08-16 12:42:00,507 - error - ERROR - User333 is already admin!
+2022-08-16 12:42:00,516 - warning - WARNING - User 111 does not exists!
+2022-08-16 12:42:00,522 - error - ERROR - User333 is already admin!
+2022-08-16 12:42:00,529 - error - ERROR - User333 is already admin!
+2022-08-16 12:45:56,954 - error - ERROR - User 555 does not exists!
+2022-08-16 12:47:54,058 - error - ERROR - User333 is already admin!
+2022-08-16 12:47:54,067 - warning - WARNING - User 111 does not exists!
+2022-08-16 12:47:54,075 - error - ERROR - User333 is already admin!
+2022-08-16 12:53:59,168 - error - ERROR - User 123 does not exists!
+2022-08-16 12:53:59,174 - error - ERROR - User333 is already admin!
+2022-08-16 12:53:59,183 - warning - WARNING - User 111 does not exists!
+2022-08-16 12:54:12,127 - error - ERROR - User 123 does not exists!
+2022-08-16 12:54:12,161 - warning - WARNING - User 111 does not exists!
+2022-08-16 12:59:20,905 - error - ERROR - User555 was alresdy blocked!
+2022-08-16 13:02:24,452 - error - ERROR - User 123 does not exists!
+2022-08-16 13:02:24,458 - error - ERROR - User666 is already admin!
+2022-08-16 13:02:24,467 - warning - WARNING - User111 does not exists!
+2022-08-16 13:02:24,480 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:02:24,484 - error - ERROR - User111 does not exists!
+2022-08-16 13:03:08,398 - error - ERROR - User 123 does not exists!
+2022-08-16 13:03:08,413 - warning - WARNING - User111 does not exists!
+2022-08-16 13:03:08,424 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:03:08,430 - error - ERROR - User111 does not exists!
+2022-08-16 13:16:05,061 - error - ERROR - User 123 does not exists!
+2022-08-16 13:16:05,086 - warning - WARNING - User111 does not exists!
+2022-08-16 13:16:05,100 - error - ERROR - User111 does not exists!
+2022-08-16 13:16:05,116 - error - ERROR - User666 was not blocked!
+2022-08-16 13:16:05,120 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:16:05,125 - error - ERROR - User111 does not exists!
+2022-08-16 13:18:50,152 - error - ERROR - User777 does not exists!
+2022-08-16 13:21:23,580 - error - ERROR - User111 does not exists!
+2022-08-16 13:21:23,634 - error - ERROR - User 123 does not exists!
+2022-08-16 13:21:23,645 - warning - WARNING - User111 does not exists!
+2022-08-16 13:21:23,657 - error - ERROR - User111 does not exists!
+2022-08-16 13:21:23,710 - error - ERROR - User666 was not blocked!
+2022-08-16 13:21:23,715 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:21:23,721 - error - ERROR - User111 does not exists!
+2022-08-16 13:24:49,553 - error - ERROR - User111 does not exists!
+2022-08-16 13:24:49,626 - error - ERROR - User 123 does not exists!
+2022-08-16 13:24:49,693 - warning - WARNING - User111 does not exists!
+2022-08-16 13:24:49,760 - error - ERROR - User111 does not exists!
+2022-08-16 13:24:49,838 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:24:49,860 - error - ERROR - User111 does not exists!
+2022-08-16 13:25:44,084 - error - ERROR - User111 does not exists!
+2022-08-16 13:26:04,422 - error - ERROR - User111 does not exists!
+2022-08-16 13:26:04,467 - error - ERROR - User 123 does not exists!
+2022-08-16 13:26:04,480 - warning - WARNING - User111 does not exists!
+2022-08-16 13:26:04,496 - error - ERROR - User111 does not exists!
+2022-08-16 13:26:04,501 - error - ERROR - User666 was not blocked!
+2022-08-16 13:26:04,507 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:26:04,511 - error - ERROR - User111 does not exists!
+2022-08-16 13:27:30,788 - error - ERROR - User111 does not exists!
+2022-08-16 13:27:30,844 - error - ERROR - User 123 does not exists!
+2022-08-16 13:27:30,854 - warning - WARNING - User111 does not exists!
+2022-08-16 13:27:30,865 - error - ERROR - User111 does not exists!
+2022-08-16 13:27:30,870 - error - ERROR - User666 was not blocked!
+2022-08-16 13:27:30,874 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:27:30,877 - error - ERROR - User111 does not exists!
+2022-08-16 13:31:24,405 - error - ERROR - User111 does not exists!
+2022-08-16 13:31:24,463 - error - ERROR - User 123 does not exists!
+2022-08-16 13:31:24,476 - warning - WARNING - User111 does not exists!
+2022-08-16 13:31:24,486 - error - ERROR - User111 does not exists!
+2022-08-16 13:31:24,491 - error - ERROR - User666 was not blocked!
+2022-08-16 13:31:24,496 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:31:24,499 - error - ERROR - User111 does not exists!
+2022-08-16 13:32:29,143 - error - ERROR - User111 does not exists!
+2022-08-16 13:32:29,149 - error - ERROR - User111 does not exists!
+2022-08-16 13:32:29,200 - error - ERROR - User 123 does not exists!
+2022-08-16 13:32:29,210 - warning - WARNING - User111 does not exists!
+2022-08-16 13:32:29,222 - error - ERROR - User111 does not exists!
+2022-08-16 13:32:29,228 - error - ERROR - User666 was not blocked!
+2022-08-16 13:32:29,232 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:32:29,245 - error - ERROR - User111 does not exists!
+2022-08-16 13:34:18,025 - error - ERROR - User111 does not exists!
+2022-08-16 13:34:18,083 - error - ERROR - User111 does not exists!
+2022-08-16 13:34:18,117 - error - ERROR - User 123 does not exists!
+2022-08-16 13:34:18,129 - warning - WARNING - User111 does not exists!
+2022-08-16 13:34:18,141 - error - ERROR - User111 does not exists!
+2022-08-16 13:34:18,148 - error - ERROR - User666 was not blocked!
+2022-08-16 13:34:18,152 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:34:18,157 - error - ERROR - User111 does not exists!
+2022-08-16 13:36:58,489 - error - ERROR - User111 does not exists!
+2022-08-16 13:36:58,534 - error - ERROR - User111 does not exists!
+2022-08-16 13:36:58,566 - error - ERROR - User 123 does not exists!
+2022-08-16 13:36:58,576 - warning - WARNING - User111 does not exists!
+2022-08-16 13:36:58,587 - error - ERROR - User111 does not exists!
+2022-08-16 13:36:58,593 - error - ERROR - User666 was not blocked!
+2022-08-16 13:36:58,596 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:36:58,600 - error - ERROR - User111 does not exists!
+2022-08-16 13:38:30,658 - error - ERROR - User111 does not exists!
+2022-08-16 13:38:30,716 - error - ERROR - User111 does not exists!
+2022-08-16 13:38:30,751 - error - ERROR - User 123 does not exists!
+2022-08-16 13:38:30,762 - warning - WARNING - User111 does not exists!
+2022-08-16 13:38:30,773 - error - ERROR - User111 does not exists!
+2022-08-16 13:38:30,778 - error - ERROR - User666 was not blocked!
+2022-08-16 13:38:30,782 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:38:30,786 - error - ERROR - User111 does not exists!
+2022-08-16 13:39:17,250 - error - ERROR - User111 does not exists!
+2022-08-16 13:39:17,296 - error - ERROR - User111 does not exists!
+2022-08-16 13:39:17,332 - error - ERROR - User 123 does not exists!
+2022-08-16 13:39:17,342 - warning - WARNING - User111 does not exists!
+2022-08-16 13:39:17,353 - error - ERROR - User111 does not exists!
+2022-08-16 13:39:17,359 - error - ERROR - User666 was not blocked!
+2022-08-16 13:39:17,363 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:39:17,367 - error - ERROR - User111 does not exists!
+2022-08-16 13:40:38,405 - error - ERROR - User111 does not exists!
+2022-08-16 13:40:38,453 - error - ERROR - User111 does not exists!
+2022-08-16 13:40:38,490 - error - ERROR - User 123 does not exists!
+2022-08-16 13:40:38,502 - warning - WARNING - User111 does not exists!
+2022-08-16 13:40:38,517 - error - ERROR - User111 does not exists!
+2022-08-16 13:40:38,525 - error - ERROR - User666 was not blocked!
+2022-08-16 13:40:38,530 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:40:38,535 - error - ERROR - User111 does not exists!
+2022-08-16 13:45:47,250 - error - ERROR - User111 does not exists!
+2022-08-16 13:45:47,303 - error - ERROR - User111 does not exists!
+2022-08-16 13:45:47,348 - error - ERROR - User 123 does not exists!
+2022-08-16 13:45:47,360 - warning - WARNING - User111 does not exists!
+2022-08-16 13:45:47,374 - error - ERROR - User111 does not exists!
+2022-08-16 13:45:47,380 - error - ERROR - User666 was not blocked!
+2022-08-16 13:45:47,385 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:45:47,389 - error - ERROR - User111 does not exists!
+2022-08-16 13:47:32,540 - error - ERROR - User111 does not exists!
+2022-08-16 13:47:32,586 - error - ERROR - User111 does not exists!
+2022-08-16 13:47:32,619 - error - ERROR - User 123 does not exists!
+2022-08-16 13:47:32,629 - warning - WARNING - User111 does not exists!
+2022-08-16 13:47:32,640 - error - ERROR - User111 does not exists!
+2022-08-16 13:47:32,646 - error - ERROR - User666 was not blocked!
+2022-08-16 13:47:32,652 - warning - WARNING - User 111 does not exists!
+2022-08-16 13:47:32,656 - error - ERROR - User111 does not exists!

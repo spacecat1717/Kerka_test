@@ -267,3 +267,1417 @@
 2022-08-15 19:27:08,380 - info - INFO - Users table is ready to work
 2022-08-15 19:27:10,783 - info - INFO - Giving an admin status to user 312472285
 2022-08-15 19:27:10,819 - info - INFO - User 312472285 id admin now!
+2022-08-16 11:33:47,874 - info - INFO - Users table is ready to work
+2022-08-16 11:33:47,893 - info - INFO - Start getting all users info
+2022-08-16 11:33:48,316 - info - INFO - Data got
+2022-08-16 11:38:06,785 - info - INFO - Users table is ready to work
+2022-08-16 11:38:06,789 - info - INFO - Giving an admin status to user 555
+2022-08-16 11:38:06,942 - info - INFO - User 555 id admin now!
+2022-08-16 11:38:24,121 - info - INFO - Users table is ready to work
+2022-08-16 11:38:24,125 - info - INFO - Trying to get balance of user 555
+2022-08-16 11:40:32,537 - info - INFO - Users table is ready to work
+2022-08-16 11:40:32,540 - info - INFO - Giving an admin status to user 555
+2022-08-16 11:40:32,541 - info - INFO - Trying to find user 555 in DB
+2022-08-16 11:40:32,547 - info - INFO - User 555 does not exists
+2022-08-16 11:43:31,971 - info - INFO - Users table is ready to work
+2022-08-16 11:43:31,974 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 11:43:49,481 - info - INFO - Users table is ready to work
+2022-08-16 11:43:49,484 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 11:43:49,489 - info - INFO - Admin status for user 666 executed!
+2022-08-16 11:45:12,597 - info - INFO - Users table is ready to work
+2022-08-16 11:45:12,601 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 11:47:15,046 - info - INFO - Users table is ready to work
+2022-08-16 11:47:15,049 - info - INFO - Checking block status for user 555
+2022-08-16 11:47:22,785 - info - INFO - Users table is ready to work
+2022-08-16 11:47:22,788 - info - INFO - Checking block status for user 666
+2022-08-16 11:47:22,792 - info - INFO - Block status of user 666 executed!
+2022-08-16 11:49:42,402 - info - INFO - Users table is ready to work
+2022-08-16 11:49:42,405 - info - INFO - Trying to find user 555 in DB
+2022-08-16 11:49:42,409 - info - INFO - User 555 does not exists
+2022-08-16 11:49:49,552 - info - INFO - Users table is ready to work
+2022-08-16 11:49:49,554 - info - INFO - Trying to find user 666 in DB
+2022-08-16 11:49:49,558 - info - INFO - User666 exists
+2022-08-16 11:49:49,591 - info - INFO - User 666 was blocked!
+2022-08-16 11:50:01,310 - info - INFO - Users table is ready to work
+2022-08-16 11:50:01,313 - info - INFO - Trying to find user 666 in DB
+2022-08-16 11:50:01,318 - info - INFO - User666 exists
+2022-08-16 11:50:01,347 - info - INFO - User 666 was unblocked!
+2022-08-16 11:50:07,531 - info - INFO - Users table is ready to work
+2022-08-16 11:50:07,533 - info - INFO - Trying to find user 555 in DB
+2022-08-16 11:50:07,536 - info - INFO - User 555 does not exists
+2022-08-16 12:03:47,902 - info - INFO - Users table is ready to work
+2022-08-16 12:04:01,287 - info - INFO - Users table is ready to work
+2022-08-16 12:04:01,290 - info - INFO - Changing balance of user 555
+2022-08-16 12:04:01,291 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:04:01,295 - info - INFO - User 555 does not exists
+2022-08-16 12:04:10,245 - info - INFO - Users table is ready to work
+2022-08-16 12:04:10,249 - info - INFO - Changing balance of user 666
+2022-08-16 12:04:10,250 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:04:10,254 - info - INFO - User666 exists
+2022-08-16 12:04:10,298 - info - INFO - Balance of user 666 was changed
+2022-08-16 12:06:56,856 - info - INFO - Users table is ready to work
+2022-08-16 12:06:56,857 - info - INFO - Changing balance of user 666
+2022-08-16 12:06:56,857 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:06:56,862 - info - INFO - User666 exists
+2022-08-16 12:06:56,863 - info - INFO - Balance of user 666 was changed
+2022-08-16 12:08:36,828 - info - INFO - Users table is ready to work
+2022-08-16 12:08:36,829 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:08:36,838 - info - INFO - User666 exists
+2022-08-16 12:13:22,557 - info - INFO - Users table is ready to work
+2022-08-16 12:13:32,698 - info - INFO - Users table is ready to work
+2022-08-16 12:13:48,347 - info - INFO - Users table is ready to work
+2022-08-16 12:13:48,459 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:21:53,924 - info - INFO - Users table is ready to work
+2022-08-16 12:21:53,976 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:21:53,977 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:21:53,979 - info - INFO - User444 exists
+2022-08-16 12:21:53,980 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:21:53,982 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:21:53,987 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:21:53,988 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:21:53,988 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:21:53,999 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:21:53,999 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:22:36,095 - info - INFO - Users table is ready to work
+2022-08-16 12:22:36,097 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:22:36,100 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:22:36,103 - info - INFO - User444 exists
+2022-08-16 12:22:36,141 - info - INFO - User 444 id admin now!
+2022-08-16 12:23:45,843 - info - INFO - Users table is ready to work
+2022-08-16 12:23:45,875 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:23:45,876 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:23:45,877 - info - INFO - User444 exists
+2022-08-16 12:23:45,879 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:23:45,882 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:24:05,330 - info - INFO - Users table is ready to work
+2022-08-16 12:24:05,365 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:24:05,365 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:24:05,367 - info - INFO - User444 exists
+2022-08-16 12:24:05,369 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:24:05,372 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:24:05,375 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:24:05,377 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:24:05,377 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:24:05,393 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:24:05,394 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:25:02,723 - info - INFO - Users table is ready to work
+2022-08-16 12:25:02,744 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:25:02,744 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:25:02,762 - info - INFO - User444 exists
+2022-08-16 12:25:02,766 - info - INFO - Users table is ready to work
+2022-08-16 12:25:02,766 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:25:02,769 - info - INFO - User 555 does not exists
+2022-08-16 12:25:02,772 - info - INFO - Users table is ready to work
+2022-08-16 12:25:02,773 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:25:02,774 - info - INFO - User666 exists
+2022-08-16 12:25:02,776 - info - INFO - Users table is ready to work
+2022-08-16 12:25:02,788 - info - INFO - User444, test_user_1 was created in DB
+2022-08-16 12:25:02,799 - info - INFO - User666, test_user_2 was created in DB
+2022-08-16 12:25:02,800 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:25:02,802 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:25:02,804 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:25:02,805 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:25:02,817 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:25:02,817 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:26:14,395 - info - INFO - Users table is ready to work
+2022-08-16 12:26:14,398 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:26:14,399 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:26:14,405 - info - INFO - User444 exists
+2022-08-16 12:26:14,436 - info - INFO - User 444 id admin now!
+2022-08-16 12:28:33,825 - info - INFO - Users table is ready to work
+2022-08-16 12:28:33,853 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:28:33,854 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:28:33,858 - info - INFO - User444 exists
+2022-08-16 12:28:33,860 - info - INFO - Users table is ready to work
+2022-08-16 12:28:33,861 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:28:33,864 - info - INFO - User 555 does not exists
+2022-08-16 12:28:33,867 - info - INFO - Users table is ready to work
+2022-08-16 12:28:33,867 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:28:33,870 - info - INFO - User666 exists
+2022-08-16 12:28:33,872 - info - INFO - Users table is ready to work
+2022-08-16 12:28:33,884 - info - INFO - User444, test_user_1 was created in DB
+2022-08-16 12:28:33,896 - info - INFO - User666, test_user_2 was created in DB
+2022-08-16 12:28:33,896 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:28:33,898 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:28:33,900 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:28:33,900 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:28:33,914 - info - INFO - Giving an admin status to user 444
+2022-08-16 12:28:33,914 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:35:22,393 - info - INFO - Users table is ready to work
+2022-08-16 12:35:22,425 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:35:22,426 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:35:22,428 - info - INFO - User444 exists
+2022-08-16 12:35:22,430 - info - INFO - Users table is ready to work
+2022-08-16 12:35:22,431 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:35:22,433 - info - INFO - User 555 does not exists
+2022-08-16 12:35:22,435 - info - INFO - Users table is ready to work
+2022-08-16 12:35:22,436 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:35:22,437 - info - INFO - User666 exists
+2022-08-16 12:35:22,439 - info - INFO - Users table is ready to work
+2022-08-16 12:35:22,447 - info - INFO - User222, test_user_1 was created in DB
+2022-08-16 12:35:22,461 - info - INFO - User666, test_user_2 was created in DB
+2022-08-16 12:35:22,461 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:35:22,463 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:35:22,468 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:35:22,470 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:35:22,485 - info - INFO - Giving an admin status to user 222
+2022-08-16 12:35:22,485 - info - INFO - Trying to find user 222 in DB
+2022-08-16 12:36:44,247 - info - INFO - Users table is ready to work
+2022-08-16 12:36:44,285 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:36:44,285 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:36:44,288 - info - INFO - User444 exists
+2022-08-16 12:36:44,291 - info - INFO - Users table is ready to work
+2022-08-16 12:36:44,292 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:36:44,295 - info - INFO - User 555 does not exists
+2022-08-16 12:36:44,297 - info - INFO - Users table is ready to work
+2022-08-16 12:36:44,298 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:36:44,300 - info - INFO - User666 exists
+2022-08-16 12:36:44,303 - info - INFO - Users table is ready to work
+2022-08-16 12:36:44,318 - info - INFO - User222, test_user_1 was created in DB
+2022-08-16 12:36:44,329 - info - INFO - User666, test_user_2 was created in DB
+2022-08-16 12:36:44,330 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:36:44,335 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:36:44,346 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:36:44,346 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:36:44,403 - info - INFO - Giving an admin status to user 222
+2022-08-16 12:36:44,404 - info - INFO - Trying to find user 222 in DB
+2022-08-16 12:37:37,990 - info - INFO - Users table is ready to work
+2022-08-16 12:37:37,993 - info - INFO - Giving an admin status to user 222
+2022-08-16 12:37:37,994 - info - INFO - Trying to find user 222 in DB
+2022-08-16 12:37:38,001 - info - INFO - User222 exists
+2022-08-16 12:37:38,002 - info - INFO - Trying to execute admin status for user 222
+2022-08-16 12:37:38,004 - info - INFO - Admin status for user 222 executed!
+2022-08-16 12:37:38,032 - info - INFO - User 222 is admin now!
+2022-08-16 12:38:24,627 - info - INFO - Users table is ready to work
+2022-08-16 12:38:24,628 - info - INFO - Giving an admin status to user 222
+2022-08-16 12:38:24,628 - info - INFO - Trying to find user 222 in DB
+2022-08-16 12:38:24,631 - info - INFO - User222 exists
+2022-08-16 12:38:24,632 - info - INFO - Trying to execute admin status for user 222
+2022-08-16 12:38:24,633 - info - INFO - Admin status for user 222 executed!
+2022-08-16 12:38:24,637 - info - INFO - Users table is ready to work
+2022-08-16 12:38:24,668 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:38:24,668 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:38:24,670 - info - INFO - User444 exists
+2022-08-16 12:38:24,672 - info - INFO - Users table is ready to work
+2022-08-16 12:38:24,672 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:38:24,674 - info - INFO - User 555 does not exists
+2022-08-16 12:38:24,676 - info - INFO - Users table is ready to work
+2022-08-16 12:38:24,676 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:38:24,677 - info - INFO - User666 exists
+2022-08-16 12:38:24,679 - info - INFO - Users table is ready to work
+2022-08-16 12:38:24,690 - info - INFO - User333, test_user_1 was created in DB
+2022-08-16 12:38:24,705 - info - INFO - User666, test_user_2 was created in DB
+2022-08-16 12:38:24,706 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:38:24,719 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:38:24,721 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:38:24,721 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:38:24,730 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:38:24,730 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:38:41,673 - info - INFO - Users table is ready to work
+2022-08-16 12:38:41,677 - info - INFO - Giving an admin status to user 222
+2022-08-16 12:38:41,678 - info - INFO - Trying to find user 222 in DB
+2022-08-16 12:38:41,683 - info - INFO - User222 exists
+2022-08-16 12:38:41,684 - info - INFO - Trying to execute admin status for user 222
+2022-08-16 12:38:41,688 - info - INFO - Admin status for user 222 executed!
+2022-08-16 12:39:00,084 - info - INFO - Users table is ready to work
+2022-08-16 12:39:00,125 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:39:00,126 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:39:00,127 - info - INFO - User444 exists
+2022-08-16 12:39:00,129 - info - INFO - Users table is ready to work
+2022-08-16 12:39:00,130 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:39:00,131 - info - INFO - User 555 does not exists
+2022-08-16 12:39:00,133 - info - INFO - Users table is ready to work
+2022-08-16 12:39:00,133 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:39:00,134 - info - INFO - User666 exists
+2022-08-16 12:39:00,136 - info - INFO - Users table is ready to work
+2022-08-16 12:39:00,137 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:39:00,138 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:39:00,140 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:39:00,140 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:39:00,150 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:39:00,150 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:39:38,196 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,227 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:39:38,228 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:39:38,230 - info - INFO - User444 exists
+2022-08-16 12:39:38,232 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,232 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:39:38,234 - info - INFO - User 555 does not exists
+2022-08-16 12:39:38,236 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,236 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:39:38,238 - info - INFO - User666 exists
+2022-08-16 12:39:38,240 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,240 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:39:38,243 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:39:38,245 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,245 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:39:38,245 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:39:38,246 - info - INFO - User 111 does not exists
+2022-08-16 12:39:38,248 - info - INFO - Users table is ready to work
+2022-08-16 12:39:38,249 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:39:38,249 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:39:38,252 - info - INFO - User333 exists
+2022-08-16 12:39:38,252 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:39:38,253 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:39:38,260 - info - INFO - User 333 is admin now!
+2022-08-16 12:42:00,449 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,481 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:42:00,481 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:42:00,485 - info - INFO - User444 exists
+2022-08-16 12:42:00,490 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,491 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:42:00,495 - info - INFO - User 555 does not exists
+2022-08-16 12:42:00,497 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,497 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:42:00,498 - info - INFO - User666 exists
+2022-08-16 12:42:00,500 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,501 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:42:00,501 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:42:00,504 - info - INFO - User333 exists
+2022-08-16 12:42:00,504 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:42:00,506 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:42:00,509 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,510 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:42:00,511 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:42:00,513 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,514 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:42:00,514 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:42:00,515 - info - INFO - User 111 does not exists
+2022-08-16 12:42:00,517 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,518 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:42:00,518 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:42:00,520 - info - INFO - User333 exists
+2022-08-16 12:42:00,521 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:42:00,522 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:42:00,524 - info - INFO - Users table is ready to work
+2022-08-16 12:42:00,525 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:42:00,525 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:42:00,527 - info - INFO - User333 exists
+2022-08-16 12:42:00,527 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:42:00,528 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:44:17,443 - info - INFO - Users table is ready to work
+2022-08-16 12:44:17,445 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:44:17,449 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:45:20,651 - info - INFO - Users table is ready to work
+2022-08-16 12:45:20,653 - info - INFO - Trying to execute admin status for user 444
+2022-08-16 12:45:20,660 - info - INFO - Admin status for user 444 executed!
+2022-08-16 12:45:33,492 - info - INFO - Users table is ready to work
+2022-08-16 12:45:33,495 - info - INFO - Trying to execute admin status for user 444
+2022-08-16 12:45:33,501 - info - INFO - Admin status for user 444 executed!
+2022-08-16 12:45:45,769 - info - INFO - Users table is ready to work
+2022-08-16 12:45:45,772 - info - INFO - Trying to execute admin status for user 222
+2022-08-16 12:45:45,776 - info - INFO - Admin status for user 222 executed!
+2022-08-16 12:45:56,948 - info - INFO - Users table is ready to work
+2022-08-16 12:45:56,950 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 12:46:30,455 - info - INFO - Users table is ready to work
+2022-08-16 12:46:30,495 - info - INFO - User555, testt was created in DB
+2022-08-16 12:47:53,986 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,010 - info - INFO - User555, testt was created in DB
+2022-08-16 12:47:54,024 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,041 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:47:54,042 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:47:54,043 - info - INFO - User444 exists
+2022-08-16 12:47:54,045 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,046 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:47:54,047 - info - INFO - User555 exists
+2022-08-16 12:47:54,049 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,050 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:47:54,051 - info - INFO - User666 exists
+2022-08-16 12:47:54,054 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,054 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:47:54,055 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:47:54,056 - info - INFO - User333 exists
+2022-08-16 12:47:54,056 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:47:54,057 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:47:54,060 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,060 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:47:54,062 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:47:54,064 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,065 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:47:54,065 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:47:54,066 - info - INFO - User 111 does not exists
+2022-08-16 12:47:54,070 - info - INFO - Users table is ready to work
+2022-08-16 12:47:54,071 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:47:54,071 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:47:54,073 - info - INFO - User333 exists
+2022-08-16 12:47:54,074 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:47:54,075 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:52:07,295 - info - INFO - Users table is ready to work
+2022-08-16 12:52:07,329 - info - INFO - User555, testt was created in DB
+2022-08-16 12:52:31,447 - info - INFO - Users table is ready to work
+2022-08-16 12:52:31,449 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 12:52:31,453 - info - INFO - Admin status for user 555 executed!
+2022-08-16 12:53:59,107 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,153 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:53:59,154 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:53:59,156 - info - INFO - User444 exists
+2022-08-16 12:53:59,158 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,158 - info - INFO - Trying to find user 777 in DB
+2022-08-16 12:53:59,160 - info - INFO - User 777 does not exists
+2022-08-16 12:53:59,162 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,162 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:53:59,164 - info - INFO - User666 exists
+2022-08-16 12:53:59,166 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,167 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 12:53:59,170 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,171 - info - INFO - Giving an admin status to user 333
+2022-08-16 12:53:59,171 - info - INFO - Trying to find user 333 in DB
+2022-08-16 12:53:59,172 - info - INFO - User333 exists
+2022-08-16 12:53:59,172 - info - INFO - Trying to execute admin status for user 333
+2022-08-16 12:53:59,173 - info - INFO - Admin status for user 333 executed!
+2022-08-16 12:53:59,176 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,176 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 12:53:59,178 - info - INFO - Admin status for user 555 executed!
+2022-08-16 12:53:59,180 - info - INFO - Users table is ready to work
+2022-08-16 12:53:59,180 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:53:59,181 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:53:59,183 - info - INFO - User 111 does not exists
+2022-08-16 12:54:12,052 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,104 - info - INFO - User444, test_user was created in DB
+2022-08-16 12:54:12,104 - info - INFO - Trying to find user 444 in DB
+2022-08-16 12:54:12,106 - info - INFO - User444 exists
+2022-08-16 12:54:12,111 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,112 - info - INFO - Trying to find user 777 in DB
+2022-08-16 12:54:12,116 - info - INFO - User 777 does not exists
+2022-08-16 12:54:12,118 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,120 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:54:12,123 - info - INFO - User666 exists
+2022-08-16 12:54:12,125 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,125 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 12:54:12,132 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,132 - info - INFO - Giving an admin status to user 666
+2022-08-16 12:54:12,132 - info - INFO - Trying to find user 666 in DB
+2022-08-16 12:54:12,134 - info - INFO - User666 exists
+2022-08-16 12:54:12,134 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 12:54:12,135 - info - INFO - Admin status for user 666 executed!
+2022-08-16 12:54:12,153 - info - INFO - User 666 is admin now!
+2022-08-16 12:54:12,155 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,156 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 12:54:12,157 - info - INFO - Admin status for user 555 executed!
+2022-08-16 12:54:12,159 - info - INFO - Users table is ready to work
+2022-08-16 12:54:12,159 - info - INFO - Giving an admin status to user 111
+2022-08-16 12:54:12,159 - info - INFO - Trying to find user 111 in DB
+2022-08-16 12:54:12,160 - info - INFO - User 111 does not exists
+2022-08-16 12:57:45,599 - info - INFO - Users table is ready to work
+2022-08-16 12:57:45,602 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:57:45,606 - info - INFO - User555 exists
+2022-08-16 12:57:45,640 - info - INFO - User 555 was blocked!
+2022-08-16 12:59:20,894 - info - INFO - Users table is ready to work
+2022-08-16 12:59:20,896 - info - INFO - Trying to find user 555 in DB
+2022-08-16 12:59:20,900 - info - INFO - User555 exists
+2022-08-16 12:59:20,901 - info - INFO - Checking block status for user 555
+2022-08-16 12:59:20,904 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:02:24,401 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,438 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:02:24,438 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:02:24,440 - info - INFO - User444 exists
+2022-08-16 13:02:24,442 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,442 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:02:24,443 - info - INFO - User 777 does not exists
+2022-08-16 13:02:24,445 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,445 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:02:24,448 - info - INFO - User666 exists
+2022-08-16 13:02:24,450 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,450 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:02:24,454 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,455 - info - INFO - Giving an admin status to user 666
+2022-08-16 13:02:24,455 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:02:24,456 - info - INFO - User666 exists
+2022-08-16 13:02:24,457 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:02:24,458 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:02:24,461 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,461 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:02:24,463 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:02:24,465 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,466 - info - INFO - Checking block status for user 111
+2022-08-16 13:02:24,470 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,470 - info - INFO - Checking block status for user 555
+2022-08-16 13:02:24,472 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:02:24,473 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,474 - info - INFO - Checking block status for user 666
+2022-08-16 13:02:24,475 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:02:24,477 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,478 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:02:24,478 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:02:24,479 - info - INFO - User 111 does not exists
+2022-08-16 13:02:24,482 - info - INFO - Users table is ready to work
+2022-08-16 13:02:24,483 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:02:24,484 - info - INFO - User 111 does not exists
+2022-08-16 13:03:08,355 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,384 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:03:08,384 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:03:08,386 - info - INFO - User444 exists
+2022-08-16 13:03:08,388 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,388 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:03:08,389 - info - INFO - User 777 does not exists
+2022-08-16 13:03:08,391 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,391 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:03:08,393 - info - INFO - User666 exists
+2022-08-16 13:03:08,395 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,396 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:03:08,400 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,401 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:03:08,405 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:03:08,407 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,407 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:03:08,408 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:03:08,411 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,412 - info - INFO - Checking block status for user 111
+2022-08-16 13:03:08,414 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,415 - info - INFO - Checking block status for user 555
+2022-08-16 13:03:08,416 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:03:08,417 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,418 - info - INFO - Checking block status for user 666
+2022-08-16 13:03:08,420 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:03:08,422 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,422 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:03:08,422 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:03:08,424 - info - INFO - User 111 does not exists
+2022-08-16 13:03:08,428 - info - INFO - Users table is ready to work
+2022-08-16 13:03:08,428 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:03:08,430 - info - INFO - User 111 does not exists
+2022-08-16 13:16:05,020 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,043 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:16:05,044 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:16:05,046 - info - INFO - User444 exists
+2022-08-16 13:16:05,049 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,049 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:16:05,051 - info - INFO - User 777 does not exists
+2022-08-16 13:16:05,054 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,055 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:16:05,056 - info - INFO - User666 exists
+2022-08-16 13:16:05,059 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,059 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:16:05,076 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,076 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:16:05,078 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:16:05,080 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,080 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:16:05,082 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:16:05,084 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,085 - info - INFO - Checking block status for user 111
+2022-08-16 13:16:05,088 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,089 - info - INFO - Checking block status for user 555
+2022-08-16 13:16:05,090 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:16:05,092 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,093 - info - INFO - Checking block status for user 666
+2022-08-16 13:16:05,094 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:16:05,096 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,096 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:16:05,099 - info - INFO - User 111 does not exists
+2022-08-16 13:16:05,101 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,102 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:16:05,103 - info - INFO - User555 exists
+2022-08-16 13:16:05,104 - info - INFO - Checking block status for user 555
+2022-08-16 13:16:05,105 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:16:05,110 - info - INFO - User 555 was unblocked!
+2022-08-16 13:16:05,112 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,112 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:16:05,114 - info - INFO - User666 exists
+2022-08-16 13:16:05,114 - info - INFO - Checking block status for user 666
+2022-08-16 13:16:05,116 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:16:05,118 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,118 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:16:05,119 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:16:05,120 - info - INFO - User 111 does not exists
+2022-08-16 13:16:05,122 - info - INFO - Users table is ready to work
+2022-08-16 13:16:05,123 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:16:05,124 - info - INFO - User 111 does not exists
+2022-08-16 13:18:50,141 - info - INFO - Users table is ready to work
+2022-08-16 13:18:50,143 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:18:50,151 - info - INFO - User 777 does not exists
+2022-08-16 13:19:19,672 - info - INFO - Users table is ready to work
+2022-08-16 13:19:19,720 - info - INFO - User777, test7 was created in DB
+2022-08-16 13:19:19,721 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:19:19,724 - info - INFO - User777 exists
+2022-08-16 13:19:19,725 - info - INFO - Checking block status for user 777
+2022-08-16 13:19:19,727 - info - INFO - Block status of user 777 executed!
+2022-08-16 13:19:19,753 - info - INFO - User 777 was blocked!
+2022-08-16 13:21:23,567 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,569 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:21:23,570 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:21:23,580 - info - INFO - User 111 does not exists
+2022-08-16 13:21:23,582 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,615 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:21:23,616 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:21:23,620 - info - INFO - User444 exists
+2022-08-16 13:21:23,622 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,623 - info - INFO - Trying to find user 777 in DB
+2022-08-16 13:21:23,624 - info - INFO - User777 exists
+2022-08-16 13:21:23,627 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,628 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:21:23,629 - info - INFO - User666 exists
+2022-08-16 13:21:23,630 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,631 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:21:23,636 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,637 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:21:23,638 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:21:23,640 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,640 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:21:23,641 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:21:23,643 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,643 - info - INFO - Checking block status for user 111
+2022-08-16 13:21:23,646 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,647 - info - INFO - Checking block status for user 555
+2022-08-16 13:21:23,648 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:21:23,652 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,652 - info - INFO - Checking block status for user 666
+2022-08-16 13:21:23,654 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:21:23,655 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,656 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:21:23,657 - info - INFO - User 111 does not exists
+2022-08-16 13:21:23,659 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,671 - info - INFO - User184, test7 was created in DB
+2022-08-16 13:21:23,671 - info - INFO - Trying to find user 184 in DB
+2022-08-16 13:21:23,672 - info - INFO - User184 exists
+2022-08-16 13:21:23,673 - info - INFO - Checking block status for user 184
+2022-08-16 13:21:23,682 - info - INFO - Block status of user 184 executed!
+2022-08-16 13:21:23,693 - info - INFO - User 184 was blocked!
+2022-08-16 13:21:23,694 - info - INFO - Trying to find user 184 in DB
+2022-08-16 13:21:23,695 - info - INFO - User184 exists
+2022-08-16 13:21:23,696 - info - INFO - Checking block status for user 184
+2022-08-16 13:21:23,697 - info - INFO - Block status of user 184 executed!
+2022-08-16 13:21:23,704 - info - INFO - User 184 was unblocked!
+2022-08-16 13:21:23,706 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,707 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:21:23,708 - info - INFO - User666 exists
+2022-08-16 13:21:23,709 - info - INFO - Checking block status for user 666
+2022-08-16 13:21:23,710 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:21:23,713 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,713 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:21:23,714 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:21:23,715 - info - INFO - User 111 does not exists
+2022-08-16 13:21:23,718 - info - INFO - Users table is ready to work
+2022-08-16 13:21:23,719 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:21:23,720 - info - INFO - User 111 does not exists
+2022-08-16 13:24:49,549 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,550 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:24:49,550 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:24:49,553 - info - INFO - User 111 does not exists
+2022-08-16 13:24:49,558 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,591 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:24:49,591 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:24:49,593 - info - INFO - User444 exists
+2022-08-16 13:24:49,597 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,597 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:24:49,599 - info - INFO - User 123 does not exists
+2022-08-16 13:24:49,601 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,601 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:24:49,603 - info - INFO - User666 exists
+2022-08-16 13:24:49,605 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,613 - info - INFO - User687, test7 was created in DB
+2022-08-16 13:24:49,615 - info - INFO - Trying to find user 687 in DB
+2022-08-16 13:24:49,616 - info - INFO - User687 exists
+2022-08-16 13:24:49,617 - info - INFO - Checking block status for user 687
+2022-08-16 13:24:49,619 - info - INFO - Block status of user 687 executed!
+2022-08-16 13:24:49,624 - info - INFO - User 687 was blocked!
+2022-08-16 13:24:49,625 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:24:49,628 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,635 - info - INFO - User498, test7 was created in DB
+2022-08-16 13:24:49,636 - info - INFO - Trying to find user 498 in DB
+2022-08-16 13:24:49,637 - info - INFO - User498 exists
+2022-08-16 13:24:49,638 - info - INFO - Checking block status for user 498
+2022-08-16 13:24:49,639 - info - INFO - Block status of user 498 executed!
+2022-08-16 13:24:49,647 - info - INFO - User 498 was blocked!
+2022-08-16 13:24:49,647 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:24:49,648 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:24:49,651 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,657 - info - INFO - User505, test7 was created in DB
+2022-08-16 13:24:49,658 - info - INFO - Trying to find user 505 in DB
+2022-08-16 13:24:49,660 - info - INFO - User505 exists
+2022-08-16 13:24:49,660 - info - INFO - Checking block status for user 505
+2022-08-16 13:24:49,662 - info - INFO - Block status of user 505 executed!
+2022-08-16 13:24:49,669 - info - INFO - User 505 was blocked!
+2022-08-16 13:24:49,669 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:24:49,670 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:24:49,672 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,680 - info - INFO - User666, test7 was created in DB
+2022-08-16 13:24:49,681 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:24:49,683 - info - INFO - User666 exists
+2022-08-16 13:24:49,683 - info - INFO - Checking block status for user 666
+2022-08-16 13:24:49,684 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:24:49,691 - info - INFO - User 666 was blocked!
+2022-08-16 13:24:49,691 - info - INFO - Checking block status for user 111
+2022-08-16 13:24:49,695 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,702 - info - INFO - User376, test7 was created in DB
+2022-08-16 13:24:49,702 - info - INFO - Trying to find user 376 in DB
+2022-08-16 13:24:49,704 - info - INFO - User376 exists
+2022-08-16 13:24:49,704 - info - INFO - Checking block status for user 376
+2022-08-16 13:24:49,705 - info - INFO - Block status of user 376 executed!
+2022-08-16 13:24:49,713 - info - INFO - User 376 was blocked!
+2022-08-16 13:24:49,714 - info - INFO - Checking block status for user 555
+2022-08-16 13:24:49,715 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:24:49,718 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,724 - info - INFO - User365, test7 was created in DB
+2022-08-16 13:24:49,725 - info - INFO - Trying to find user 365 in DB
+2022-08-16 13:24:49,726 - info - INFO - User365 exists
+2022-08-16 13:24:49,727 - info - INFO - Checking block status for user 365
+2022-08-16 13:24:49,728 - info - INFO - Block status of user 365 executed!
+2022-08-16 13:24:49,735 - info - INFO - User 365 was blocked!
+2022-08-16 13:24:49,736 - info - INFO - Checking block status for user 666
+2022-08-16 13:24:49,737 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:24:49,739 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,747 - info - INFO - User281, test7 was created in DB
+2022-08-16 13:24:49,747 - info - INFO - Trying to find user 281 in DB
+2022-08-16 13:24:49,749 - info - INFO - User281 exists
+2022-08-16 13:24:49,749 - info - INFO - Checking block status for user 281
+2022-08-16 13:24:49,750 - info - INFO - Block status of user 281 executed!
+2022-08-16 13:24:49,758 - info - INFO - User 281 was blocked!
+2022-08-16 13:24:49,758 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:24:49,760 - info - INFO - User 111 does not exists
+2022-08-16 13:24:49,764 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,769 - info - INFO - User383, test7 was created in DB
+2022-08-16 13:24:49,769 - info - INFO - Trying to find user 383 in DB
+2022-08-16 13:24:49,770 - info - INFO - User383 exists
+2022-08-16 13:24:49,771 - info - INFO - Checking block status for user 383
+2022-08-16 13:24:49,771 - info - INFO - Block status of user 383 executed!
+2022-08-16 13:24:49,780 - info - INFO - User 383 was blocked!
+2022-08-16 13:24:49,782 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,791 - info - INFO - User744, test7 was created in DB
+2022-08-16 13:24:49,791 - info - INFO - Trying to find user 744 in DB
+2022-08-16 13:24:49,793 - info - INFO - User744 exists
+2022-08-16 13:24:49,794 - info - INFO - Checking block status for user 744
+2022-08-16 13:24:49,795 - info - INFO - Block status of user 744 executed!
+2022-08-16 13:24:49,802 - info - INFO - User 744 was blocked!
+2022-08-16 13:24:49,803 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:24:49,804 - info - INFO - User666 exists
+2022-08-16 13:24:49,804 - info - INFO - Checking block status for user 666
+2022-08-16 13:24:49,806 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:24:49,813 - info - INFO - User 666 was unblocked!
+2022-08-16 13:24:49,815 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,824 - info - INFO - User405, test7 was created in DB
+2022-08-16 13:24:49,825 - info - INFO - Trying to find user 405 in DB
+2022-08-16 13:24:49,826 - info - INFO - User405 exists
+2022-08-16 13:24:49,827 - info - INFO - Checking block status for user 405
+2022-08-16 13:24:49,828 - info - INFO - Block status of user 405 executed!
+2022-08-16 13:24:49,835 - info - INFO - User 405 was blocked!
+2022-08-16 13:24:49,836 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:24:49,836 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:24:49,838 - info - INFO - User 111 does not exists
+2022-08-16 13:24:49,840 - info - INFO - Users table is ready to work
+2022-08-16 13:24:49,847 - info - INFO - User175, test7 was created in DB
+2022-08-16 13:24:49,847 - info - INFO - Trying to find user 175 in DB
+2022-08-16 13:24:49,849 - info - INFO - User175 exists
+2022-08-16 13:24:49,849 - info - INFO - Checking block status for user 175
+2022-08-16 13:24:49,851 - info - INFO - Block status of user 175 executed!
+2022-08-16 13:24:49,857 - info - INFO - User 175 was blocked!
+2022-08-16 13:24:49,858 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:24:49,860 - info - INFO - User 111 does not exists
+2022-08-16 13:25:44,080 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,081 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:25:44,081 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:25:44,084 - info - INFO - User 111 does not exists
+2022-08-16 13:25:44,087 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,126 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:25:44,126 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:25:44,128 - info - INFO - User444 exists
+2022-08-16 13:25:44,130 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,130 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:25:44,132 - info - INFO - User 123 does not exists
+2022-08-16 13:25:44,134 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,134 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:25:44,136 - info - INFO - User666 exists
+2022-08-16 13:25:44,137 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,140 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,142 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,145 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,147 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,149 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,151 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,153 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,155 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,158 - info - INFO - Users table is ready to work
+2022-08-16 13:25:44,160 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,409 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,410 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:26:04,410 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:26:04,422 - info - INFO - User 111 does not exists
+2022-08-16 13:26:04,426 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,449 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:26:04,450 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:26:04,451 - info - INFO - User444 exists
+2022-08-16 13:26:04,455 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,455 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:26:04,456 - info - INFO - User 123 does not exists
+2022-08-16 13:26:04,460 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,461 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:26:04,462 - info - INFO - User666 exists
+2022-08-16 13:26:04,464 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,465 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:26:04,468 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,469 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:26:04,470 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:26:04,473 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,473 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:26:04,475 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:26:04,478 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,478 - info - INFO - Checking block status for user 111
+2022-08-16 13:26:04,482 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,483 - info - INFO - Checking block status for user 555
+2022-08-16 13:26:04,485 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:26:04,488 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,489 - info - INFO - Checking block status for user 666
+2022-08-16 13:26:04,490 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:26:04,493 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,494 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:26:04,495 - info - INFO - User 111 does not exists
+2022-08-16 13:26:04,497 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,498 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:26:04,499 - info - INFO - User666 exists
+2022-08-16 13:26:04,500 - info - INFO - Checking block status for user 666
+2022-08-16 13:26:04,501 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:26:04,504 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,505 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:26:04,505 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:26:04,506 - info - INFO - User 111 does not exists
+2022-08-16 13:26:04,509 - info - INFO - Users table is ready to work
+2022-08-16 13:26:04,509 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:26:04,511 - info - INFO - User 111 does not exists
+2022-08-16 13:27:04,501 - info - INFO - Users table is ready to work
+2022-08-16 13:27:04,508 - info - INFO - Checking block status for user 555
+2022-08-16 13:27:04,513 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:27:20,687 - info - INFO - Users table is ready to work
+2022-08-16 13:27:20,690 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:27:20,693 - info - INFO - User555 exists
+2022-08-16 13:27:20,694 - info - INFO - Checking block status for user 555
+2022-08-16 13:27:20,696 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:27:20,729 - info - INFO - User 555 was blocked!
+2022-08-16 13:27:30,782 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,784 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:27:30,784 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:27:30,787 - info - INFO - User 111 does not exists
+2022-08-16 13:27:30,791 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,828 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:27:30,828 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:27:30,831 - info - INFO - User444 exists
+2022-08-16 13:27:30,835 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,835 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:27:30,836 - info - INFO - User 123 does not exists
+2022-08-16 13:27:30,838 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,839 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:27:30,840 - info - INFO - User666 exists
+2022-08-16 13:27:30,842 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,842 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:27:30,846 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,846 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:27:30,847 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:27:30,849 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,849 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:27:30,851 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:27:30,852 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,853 - info - INFO - Checking block status for user 111
+2022-08-16 13:27:30,856 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,856 - info - INFO - Checking block status for user 555
+2022-08-16 13:27:30,858 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:27:30,859 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,860 - info - INFO - Checking block status for user 666
+2022-08-16 13:27:30,861 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:27:30,863 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,863 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:27:30,864 - info - INFO - User 111 does not exists
+2022-08-16 13:27:30,866 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,867 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:27:30,868 - info - INFO - User666 exists
+2022-08-16 13:27:30,868 - info - INFO - Checking block status for user 666
+2022-08-16 13:27:30,869 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:27:30,871 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,872 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:27:30,872 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:27:30,873 - info - INFO - User 111 does not exists
+2022-08-16 13:27:30,875 - info - INFO - Users table is ready to work
+2022-08-16 13:27:30,876 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:27:30,877 - info - INFO - User 111 does not exists
+2022-08-16 13:31:24,396 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,397 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:31:24,397 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:31:24,404 - info - INFO - User 111 does not exists
+2022-08-16 13:31:24,407 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,407 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:31:24,408 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:31:24,409 - info - INFO - User555 exists
+2022-08-16 13:31:24,411 - info - INFO - Balance of user 555 got
+2022-08-16 13:31:24,413 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,450 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:31:24,451 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:31:24,452 - info - INFO - User444 exists
+2022-08-16 13:31:24,454 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,454 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:31:24,456 - info - INFO - User 123 does not exists
+2022-08-16 13:31:24,458 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,458 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:31:24,459 - info - INFO - User666 exists
+2022-08-16 13:31:24,461 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,462 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:31:24,466 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,467 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:31:24,469 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:31:24,471 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,471 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:31:24,473 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:31:24,474 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,475 - info - INFO - Checking block status for user 111
+2022-08-16 13:31:24,478 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,478 - info - INFO - Checking block status for user 555
+2022-08-16 13:31:24,479 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:31:24,481 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,481 - info - INFO - Checking block status for user 666
+2022-08-16 13:31:24,482 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:31:24,484 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,485 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:31:24,486 - info - INFO - User 111 does not exists
+2022-08-16 13:31:24,488 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,488 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:31:24,490 - info - INFO - User666 exists
+2022-08-16 13:31:24,490 - info - INFO - Checking block status for user 666
+2022-08-16 13:31:24,491 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:31:24,493 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,493 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:31:24,494 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:31:24,495 - info - INFO - User 111 does not exists
+2022-08-16 13:31:24,497 - info - INFO - Users table is ready to work
+2022-08-16 13:31:24,498 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:31:24,499 - info - INFO - User 111 does not exists
+2022-08-16 13:32:29,137 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,138 - info - INFO - Changing balance of user 111
+2022-08-16 13:32:29,138 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:32:29,142 - info - INFO - User 111 does not exists
+2022-08-16 13:32:29,145 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,146 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:32:29,146 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:32:29,149 - info - INFO - User 111 does not exists
+2022-08-16 13:32:29,151 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,152 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:32:29,152 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:32:29,153 - info - INFO - User555 exists
+2022-08-16 13:32:29,154 - info - INFO - Balance of user 555 got
+2022-08-16 13:32:29,156 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,186 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:32:29,187 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:32:29,190 - info - INFO - User444 exists
+2022-08-16 13:32:29,192 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,192 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:32:29,193 - info - INFO - User 123 does not exists
+2022-08-16 13:32:29,195 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,195 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:32:29,197 - info - INFO - User666 exists
+2022-08-16 13:32:29,198 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,199 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:32:29,201 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,202 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:32:29,203 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:32:29,205 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,205 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:32:29,207 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:32:29,208 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,209 - info - INFO - Checking block status for user 111
+2022-08-16 13:32:29,212 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,213 - info - INFO - Checking block status for user 555
+2022-08-16 13:32:29,214 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:32:29,216 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,217 - info - INFO - Checking block status for user 666
+2022-08-16 13:32:29,218 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:32:29,220 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,220 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:32:29,221 - info - INFO - User 111 does not exists
+2022-08-16 13:32:29,223 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,224 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:32:29,226 - info - INFO - User666 exists
+2022-08-16 13:32:29,226 - info - INFO - Checking block status for user 666
+2022-08-16 13:32:29,227 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:32:29,229 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,230 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:32:29,230 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:32:29,231 - info - INFO - User 111 does not exists
+2022-08-16 13:32:29,233 - info - INFO - Users table is ready to work
+2022-08-16 13:32:29,234 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:32:29,244 - info - INFO - User 111 does not exists
+2022-08-16 13:34:18,018 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,018 - info - INFO - Changing balance of user 111
+2022-08-16 13:34:18,019 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:34:18,024 - info - INFO - User 111 does not exists
+2022-08-16 13:34:18,029 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,030 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:34:18,032 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:34:18,034 - info - INFO - User555 exists
+2022-08-16 13:34:18,036 - info - INFO - Balance of user 555 got
+2022-08-16 13:34:18,037 - info - INFO - Changing balance of user 555
+2022-08-16 13:34:18,038 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:34:18,040 - info - INFO - User555 exists
+2022-08-16 13:34:18,043 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:34:18,080 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,080 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:34:18,081 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:34:18,083 - info - INFO - User 111 does not exists
+2022-08-16 13:34:18,085 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,085 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:34:18,086 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:34:18,087 - info - INFO - User555 exists
+2022-08-16 13:34:18,088 - info - INFO - Balance of user 555 got
+2022-08-16 13:34:18,091 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,102 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:34:18,103 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:34:18,104 - info - INFO - User444 exists
+2022-08-16 13:34:18,106 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,107 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:34:18,108 - info - INFO - User 123 does not exists
+2022-08-16 13:34:18,111 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,111 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:34:18,113 - info - INFO - User666 exists
+2022-08-16 13:34:18,115 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,115 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:34:18,119 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,119 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:34:18,122 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:34:18,124 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,124 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:34:18,126 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:34:18,127 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,128 - info - INFO - Checking block status for user 111
+2022-08-16 13:34:18,131 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,131 - info - INFO - Checking block status for user 555
+2022-08-16 13:34:18,133 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:34:18,135 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,135 - info - INFO - Checking block status for user 666
+2022-08-16 13:34:18,137 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:34:18,139 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,139 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:34:18,141 - info - INFO - User 111 does not exists
+2022-08-16 13:34:18,143 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,144 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:34:18,146 - info - INFO - User666 exists
+2022-08-16 13:34:18,146 - info - INFO - Checking block status for user 666
+2022-08-16 13:34:18,147 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:34:18,149 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,150 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:34:18,151 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:34:18,152 - info - INFO - User 111 does not exists
+2022-08-16 13:34:18,154 - info - INFO - Users table is ready to work
+2022-08-16 13:34:18,155 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:34:18,156 - info - INFO - User 111 does not exists
+2022-08-16 13:35:26,930 - info - INFO - Users table is ready to work
+2022-08-16 13:35:26,934 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:35:26,936 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:35:26,940 - info - INFO - User555 exists
+2022-08-16 13:35:26,943 - info - INFO - Balance of user 555 got
+2022-08-16 13:36:58,472 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,473 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:36:58,473 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:36:58,478 - info - INFO - User555 exists
+2022-08-16 13:36:58,480 - info - INFO - Balance of user 555 got
+2022-08-16 13:36:58,486 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,487 - info - INFO - Changing balance of user 111
+2022-08-16 13:36:58,487 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:36:58,489 - info - INFO - User 111 does not exists
+2022-08-16 13:36:58,491 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,492 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:36:58,492 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:36:58,494 - info - INFO - User555 exists
+2022-08-16 13:36:58,495 - info - INFO - Balance of user 555 got
+2022-08-16 13:36:58,496 - info - INFO - Changing balance of user 555
+2022-08-16 13:36:58,496 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:36:58,497 - info - INFO - User555 exists
+2022-08-16 13:36:58,499 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:36:58,532 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,532 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:36:58,533 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:36:58,534 - info - INFO - User 111 does not exists
+2022-08-16 13:36:58,536 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,536 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:36:58,537 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:36:58,538 - info - INFO - User555 exists
+2022-08-16 13:36:58,539 - info - INFO - Balance of user 555 got
+2022-08-16 13:36:58,541 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,554 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:36:58,554 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:36:58,555 - info - INFO - User444 exists
+2022-08-16 13:36:58,557 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,558 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:36:58,559 - info - INFO - User 123 does not exists
+2022-08-16 13:36:58,560 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,561 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:36:58,562 - info - INFO - User666 exists
+2022-08-16 13:36:58,564 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,564 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:36:58,568 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,568 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:36:58,569 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:36:58,571 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,571 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:36:58,573 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:36:58,574 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,575 - info - INFO - Checking block status for user 111
+2022-08-16 13:36:58,578 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,578 - info - INFO - Checking block status for user 555
+2022-08-16 13:36:58,580 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:36:58,581 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,582 - info - INFO - Checking block status for user 666
+2022-08-16 13:36:58,583 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:36:58,585 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,586 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:36:58,587 - info - INFO - User 111 does not exists
+2022-08-16 13:36:58,589 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,589 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:36:58,591 - info - INFO - User666 exists
+2022-08-16 13:36:58,591 - info - INFO - Checking block status for user 666
+2022-08-16 13:36:58,592 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:36:58,594 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,595 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:36:58,595 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:36:58,596 - info - INFO - User 111 does not exists
+2022-08-16 13:36:58,598 - info - INFO - Users table is ready to work
+2022-08-16 13:36:58,599 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:36:58,600 - info - INFO - User 111 does not exists
+2022-08-16 13:38:30,632 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,634 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:38:30,634 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:30,640 - info - INFO - User555 exists
+2022-08-16 13:38:30,648 - info - INFO - Balance of user 555 got
+2022-08-16 13:38:30,653 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,653 - info - INFO - Changing balance of user 111
+2022-08-16 13:38:30,653 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:38:30,658 - info - INFO - User 111 does not exists
+2022-08-16 13:38:30,664 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,665 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:38:30,665 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:30,671 - info - INFO - User555 exists
+2022-08-16 13:38:30,672 - info - INFO - Balance of user 555 got
+2022-08-16 13:38:30,673 - info - INFO - Changing balance of user 555
+2022-08-16 13:38:30,673 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:30,674 - info - INFO - User555 exists
+2022-08-16 13:38:30,676 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:38:30,676 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:38:30,676 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:30,678 - info - INFO - User555 exists
+2022-08-16 13:38:30,680 - info - INFO - Balance of user 555 got
+2022-08-16 13:38:30,713 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,714 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:38:30,714 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:38:30,716 - info - INFO - User 111 does not exists
+2022-08-16 13:38:30,718 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,718 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:38:30,719 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:30,720 - info - INFO - User555 exists
+2022-08-16 13:38:30,722 - info - INFO - Balance of user 555 got
+2022-08-16 13:38:30,724 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,736 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:38:30,736 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:38:30,738 - info - INFO - User444 exists
+2022-08-16 13:38:30,740 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,740 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:38:30,742 - info - INFO - User 123 does not exists
+2022-08-16 13:38:30,745 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,746 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:38:30,747 - info - INFO - User666 exists
+2022-08-16 13:38:30,749 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,749 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:38:30,753 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,753 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:38:30,754 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:38:30,756 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,757 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:38:30,758 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:38:30,760 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,760 - info - INFO - Checking block status for user 111
+2022-08-16 13:38:30,763 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,764 - info - INFO - Checking block status for user 555
+2022-08-16 13:38:30,765 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:38:30,767 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,767 - info - INFO - Checking block status for user 666
+2022-08-16 13:38:30,769 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:38:30,770 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,771 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:38:30,772 - info - INFO - User 111 does not exists
+2022-08-16 13:38:30,774 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,775 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:38:30,776 - info - INFO - User666 exists
+2022-08-16 13:38:30,776 - info - INFO - Checking block status for user 666
+2022-08-16 13:38:30,778 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:38:30,780 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,780 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:38:30,780 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:38:30,782 - info - INFO - User 111 does not exists
+2022-08-16 13:38:30,783 - info - INFO - Users table is ready to work
+2022-08-16 13:38:30,784 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:38:30,785 - info - INFO - User 111 does not exists
+2022-08-16 13:38:55,188 - info - INFO - Users table is ready to work
+2022-08-16 13:38:55,191 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:38:55,192 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:38:55,199 - info - INFO - User555 exists
+2022-08-16 13:38:55,201 - info - INFO - Balance of user 555 got
+2022-08-16 13:39:17,235 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,236 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:39:17,236 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:39:17,239 - info - INFO - User555 exists
+2022-08-16 13:39:17,240 - info - INFO - Balance of user 555 got
+2022-08-16 13:39:17,245 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,246 - info - INFO - Changing balance of user 111
+2022-08-16 13:39:17,246 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:39:17,250 - info - INFO - User 111 does not exists
+2022-08-16 13:39:17,255 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,256 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:39:17,256 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:39:17,257 - info - INFO - User555 exists
+2022-08-16 13:39:17,259 - info - INFO - Balance of user 555 got
+2022-08-16 13:39:17,259 - info - INFO - Changing balance of user 555
+2022-08-16 13:39:17,259 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:39:17,260 - info - INFO - User555 exists
+2022-08-16 13:39:17,262 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:39:17,262 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:39:17,263 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:39:17,264 - info - INFO - User555 exists
+2022-08-16 13:39:17,265 - info - INFO - Balance of user 555 got
+2022-08-16 13:39:17,293 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,294 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:39:17,295 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:39:17,296 - info - INFO - User 111 does not exists
+2022-08-16 13:39:17,298 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,299 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:39:17,299 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:39:17,300 - info - INFO - User555 exists
+2022-08-16 13:39:17,301 - info - INFO - Balance of user 555 got
+2022-08-16 13:39:17,303 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,315 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:39:17,316 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:39:17,318 - info - INFO - User444 exists
+2022-08-16 13:39:17,320 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,321 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:39:17,323 - info - INFO - User 123 does not exists
+2022-08-16 13:39:17,325 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,325 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:39:17,327 - info - INFO - User666 exists
+2022-08-16 13:39:17,330 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,330 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:39:17,333 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,334 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:39:17,335 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:39:17,337 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,338 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:39:17,339 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:39:17,340 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,341 - info - INFO - Checking block status for user 111
+2022-08-16 13:39:17,344 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,344 - info - INFO - Checking block status for user 555
+2022-08-16 13:39:17,345 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:39:17,347 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,348 - info - INFO - Checking block status for user 666
+2022-08-16 13:39:17,349 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:39:17,351 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,352 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:39:17,353 - info - INFO - User 111 does not exists
+2022-08-16 13:39:17,355 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,355 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:39:17,357 - info - INFO - User666 exists
+2022-08-16 13:39:17,357 - info - INFO - Checking block status for user 666
+2022-08-16 13:39:17,358 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:39:17,360 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,361 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:39:17,361 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:39:17,362 - info - INFO - User 111 does not exists
+2022-08-16 13:39:17,364 - info - INFO - Users table is ready to work
+2022-08-16 13:39:17,365 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:39:17,366 - info - INFO - User 111 does not exists
+2022-08-16 13:40:38,386 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,387 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:40:38,388 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:40:38,395 - info - INFO - User555 exists
+2022-08-16 13:40:38,397 - info - INFO - Balance of user 555 got
+2022-08-16 13:40:38,401 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,402 - info - INFO - Changing balance of user 111
+2022-08-16 13:40:38,402 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:40:38,404 - info - INFO - User 111 does not exists
+2022-08-16 13:40:38,406 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,407 - info - INFO - Changing balance of user 555
+2022-08-16 13:40:38,407 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:40:38,410 - info - INFO - User555 exists
+2022-08-16 13:40:38,411 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:40:38,412 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:40:38,412 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:40:38,413 - info - INFO - User555 exists
+2022-08-16 13:40:38,415 - info - INFO - Balance of user 555 got
+2022-08-16 13:40:38,450 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,451 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:40:38,451 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:40:38,453 - info - INFO - User 111 does not exists
+2022-08-16 13:40:38,455 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,455 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:40:38,456 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:40:38,457 - info - INFO - User555 exists
+2022-08-16 13:40:38,458 - info - INFO - Balance of user 555 got
+2022-08-16 13:40:38,460 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,475 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:40:38,475 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:40:38,476 - info - INFO - User444 exists
+2022-08-16 13:40:38,478 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,479 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:40:38,480 - info - INFO - User 123 does not exists
+2022-08-16 13:40:38,483 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,483 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:40:38,485 - info - INFO - User666 exists
+2022-08-16 13:40:38,487 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,488 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:40:38,492 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,492 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:40:38,494 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:40:38,496 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,496 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:40:38,498 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:40:38,500 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,501 - info - INFO - Checking block status for user 111
+2022-08-16 13:40:38,504 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,505 - info - INFO - Checking block status for user 555
+2022-08-16 13:40:38,507 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:40:38,509 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,510 - info - INFO - Checking block status for user 666
+2022-08-16 13:40:38,511 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:40:38,514 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,514 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:40:38,517 - info - INFO - User 111 does not exists
+2022-08-16 13:40:38,519 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,520 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:40:38,523 - info - INFO - User666 exists
+2022-08-16 13:40:38,523 - info - INFO - Checking block status for user 666
+2022-08-16 13:40:38,524 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:40:38,527 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,527 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:40:38,528 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:40:38,529 - info - INFO - User 111 does not exists
+2022-08-16 13:40:38,531 - info - INFO - Users table is ready to work
+2022-08-16 13:40:38,532 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:40:38,534 - info - INFO - User 111 does not exists
+2022-08-16 13:44:42,730 - info - INFO - Users table is ready to work
+2022-08-16 13:44:42,731 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:44:42,731 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:44:42,735 - info - INFO - User555 exists
+2022-08-16 13:44:42,737 - info - INFO - Balance of user 555 got
+2022-08-16 13:45:47,241 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,242 - info - INFO - Changing balance of user 111
+2022-08-16 13:45:47,243 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:45:47,250 - info - INFO - User 111 does not exists
+2022-08-16 13:45:47,254 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,254 - info - INFO - Changing balance of user 555
+2022-08-16 13:45:47,255 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:45:47,256 - info - INFO - User555 exists
+2022-08-16 13:45:47,258 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:45:47,259 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:45:47,259 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:45:47,260 - info - INFO - User555 exists
+2022-08-16 13:45:47,263 - info - INFO - Balance of user 555 got
+2022-08-16 13:45:47,301 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,301 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:45:47,301 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:45:47,303 - info - INFO - User 111 does not exists
+2022-08-16 13:45:47,307 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,308 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:45:47,308 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:45:47,313 - info - INFO - User555 exists
+2022-08-16 13:45:47,314 - info - INFO - Balance of user 555 got
+2022-08-16 13:45:47,317 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,334 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:45:47,335 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:45:47,336 - info - INFO - User444 exists
+2022-08-16 13:45:47,338 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,339 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:45:47,340 - info - INFO - User 123 does not exists
+2022-08-16 13:45:47,342 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,342 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:45:47,343 - info - INFO - User666 exists
+2022-08-16 13:45:47,345 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,345 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:45:47,351 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,352 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:45:47,353 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:45:47,355 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,355 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:45:47,356 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:45:47,358 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,359 - info - INFO - Checking block status for user 111
+2022-08-16 13:45:47,362 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,362 - info - INFO - Checking block status for user 555
+2022-08-16 13:45:47,364 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:45:47,365 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,366 - info - INFO - Checking block status for user 666
+2022-08-16 13:45:47,367 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:45:47,372 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,372 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:45:47,373 - info - INFO - User 111 does not exists
+2022-08-16 13:45:47,377 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,377 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:45:47,378 - info - INFO - User666 exists
+2022-08-16 13:45:47,379 - info - INFO - Checking block status for user 666
+2022-08-16 13:45:47,380 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:45:47,382 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,383 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:45:47,384 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:45:47,385 - info - INFO - User 111 does not exists
+2022-08-16 13:45:47,387 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,388 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:45:47,389 - info - INFO - User 111 does not exists
+2022-08-16 13:45:47,391 - info - INFO - Users table is ready to work
+2022-08-16 13:45:47,393 - info - INFO - Start getting all users info
+2022-08-16 13:45:47,394 - info - INFO - Data got
+2022-08-16 13:47:32,535 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,535 - info - INFO - Changing balance of user 111
+2022-08-16 13:47:32,536 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:47:32,540 - info - INFO - User 111 does not exists
+2022-08-16 13:47:32,543 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,543 - info - INFO - Changing balance of user 555
+2022-08-16 13:47:32,543 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:47:32,545 - info - INFO - User555 exists
+2022-08-16 13:47:32,547 - info - INFO - Balance of user 555 was changed
+2022-08-16 13:47:32,547 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:47:32,548 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:47:32,549 - info - INFO - User555 exists
+2022-08-16 13:47:32,551 - info - INFO - Balance of user 555 got
+2022-08-16 13:47:32,583 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,584 - info - INFO - Trying to get balance of user 111
+2022-08-16 13:47:32,584 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:47:32,585 - info - INFO - User 111 does not exists
+2022-08-16 13:47:32,588 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,588 - info - INFO - Trying to get balance of user 555
+2022-08-16 13:47:32,589 - info - INFO - Trying to find user 555 in DB
+2022-08-16 13:47:32,591 - info - INFO - User555 exists
+2022-08-16 13:47:32,592 - info - INFO - Balance of user 555 got
+2022-08-16 13:47:32,594 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,605 - info - INFO - User444, test_user was created in DB
+2022-08-16 13:47:32,606 - info - INFO - Trying to find user 444 in DB
+2022-08-16 13:47:32,607 - info - INFO - User444 exists
+2022-08-16 13:47:32,609 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,609 - info - INFO - Trying to find user 123 in DB
+2022-08-16 13:47:32,611 - info - INFO - User 123 does not exists
+2022-08-16 13:47:32,612 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,613 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:47:32,614 - info - INFO - User666 exists
+2022-08-16 13:47:32,617 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,617 - info - INFO - Trying to execute admin status for user 123
+2022-08-16 13:47:32,621 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,621 - info - INFO - Trying to execute admin status for user 666
+2022-08-16 13:47:32,622 - info - INFO - Admin status for user 666 executed!
+2022-08-16 13:47:32,624 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,624 - info - INFO - Trying to execute admin status for user 555
+2022-08-16 13:47:32,626 - info - INFO - Admin status for user 555 executed!
+2022-08-16 13:47:32,627 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,628 - info - INFO - Checking block status for user 111
+2022-08-16 13:47:32,631 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,632 - info - INFO - Checking block status for user 555
+2022-08-16 13:47:32,633 - info - INFO - Block status of user 555 executed!
+2022-08-16 13:47:32,635 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,635 - info - INFO - Checking block status for user 666
+2022-08-16 13:47:32,636 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:47:32,638 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,639 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:47:32,640 - info - INFO - User 111 does not exists
+2022-08-16 13:47:32,642 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,643 - info - INFO - Trying to find user 666 in DB
+2022-08-16 13:47:32,644 - info - INFO - User666 exists
+2022-08-16 13:47:32,644 - info - INFO - Checking block status for user 666
+2022-08-16 13:47:32,645 - info - INFO - Block status of user 666 executed!
+2022-08-16 13:47:32,647 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,648 - info - INFO - Giving an admin status to user 111
+2022-08-16 13:47:32,648 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:47:32,651 - info - INFO - User 111 does not exists
+2022-08-16 13:47:32,653 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,654 - info - INFO - Trying to find user 111 in DB
+2022-08-16 13:47:32,655 - info - INFO - User 111 does not exists
+2022-08-16 13:47:32,657 - info - INFO - Users table is ready to work
+2022-08-16 13:47:32,658 - info - INFO - Start getting all users info
+2022-08-16 13:47:32,660 - info - INFO - Data got
