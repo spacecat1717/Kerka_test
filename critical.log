@@ -337,3 +337,7 @@ LINE 3: ...ES (nextval('user_sequence'), 666, 'test6', 0, false, false)
 2022-08-16 13:47:32,646 - error - ERROR - User666 was not blocked!
 2022-08-16 13:47:32,652 - warning - WARNING - User 111 does not exists!
 2022-08-16 13:47:32,656 - error - ERROR - User111 does not exists!
+2022-08-16 15:16:20,064 - error - ERROR - User312472285 is already admin!
+2022-08-16 15:31:47,361 - error - ERROR - User312472285 is already admin!
+2022-08-16 15:34:31,264 - error - ERROR - User312472285 is already admin!
+2022-08-16 15:34:31,373 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285

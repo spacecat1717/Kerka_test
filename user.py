@@ -66,6 +66,23 @@ class User():
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_crit.critical(error)
 
+    def get_user_id(self, username):
+        self.logging.logger_info.info(f'Trying to execute user id for user {username}')
+        try:
+            command = (
+                """
+                SELECT user_id FROM users WHERE username = %s
+                """
+            )
+            value = username
+            self.cursor.execute(command, (value, ))
+            res = self.cursor.fetchone()[0]
+            self.logging.logger_info.info(f'Id for user {username} executed!')
+            return res
+        except:
+            self.logging.logger_error.error(f'User {user_id} does not exists!')
+            return False
+
     def get_user_admin_status(self, user_id):
         self.logging.logger_info.info(f'Trying to execute admin status for user {user_id}')
         try:
@@ -227,7 +244,5 @@ class User():
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
 
-#u = User()
-#print(u.get_user_balance(555))
 
 
