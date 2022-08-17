@@ -8,28 +8,29 @@ from pyqiwip2p import QiwiP2P
 from pyqiwip2p.p2p_types import QiwiCustomer, QiwiDatetime
 from log_settings import LoggingSettings
 from user import User
+import main_settings
 
+"""API settings"""
+p2p = QiwiP2P(auth_key=main_settings.QIWI_PRIV_KEY)
 
-QIWI_PRIV_KEY = 'eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6InNwemt5MC0wMCIsInVzZXJfaWQiOiI3OTA0MzM3NjM4OCIsInNlY3JldCI6IjJhYmMzY2U0ZDJjNjA0NGZhMTgxMGM0MTUwY2QxNmI0N2U2YTVlNDNlNjdmMTIyNzQ5MjMwZDNiYjQ2ZDQxMTAifX0='
-
-p2p = QiwiP2P(auth_key=QIWI_PRIV_KEY)
-
-bot = Bot(token='5621517130:AAFtDms1O-6PIW2hB4XotR7chuYWHSB64jQ')
-ADMIN = 312472285
-dp = Dispatcher(bot, storage = MemoryStorage())
+"""basic settings"""
+bot = main_settings.bot
+ADMIN = main_settings.ADMIN
+dp = main_settings.dp
 dp.middleware.setup(LoggingMiddleware())
+user = User()
+logging = LoggingSettings()
 
+"""main keyboard"""
 kb = InlineKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
 kb.add(InlineKeyboardButton(text="Пополнить баланс", callback_data='request_for_sum'))
 
-
+"""admin keyboard"""
 akb = InlineKeyboardMarkup(resize_keyboard=True)
 akb.add(InlineKeyboardButton(text="Список пользователей", callback_data='users'))
 akb.add(InlineKeyboardButton(text="Выгрузить логи", callback_data='logs'))
 akb.add(InlineKeyboardButton(text="Заблокировать пользователя", callback_data='block'))
 akb.add(InlineKeyboardButton(text="Изменить баланс пользователя", callback_data='change_balance'))
-user = User()
-logging = LoggingSettings()
 
 
 """states for balance update"""
@@ -47,8 +48,6 @@ class AdminStates(StatesGroup):
     waiting_for_user_id_for_block = State()
     user_id_for_block_got = State()
 
-
-"""commands"""
 
 async def start(message:types.Message):
     user_exists = user.check_user_exists(message.from_user.id)
@@ -122,7 +121,7 @@ async def create_bill(message:types.Message, state: FSMContext):
         bill = p2p.bill(bill_id=message.from_user.id+1, amount=amount, lifetime=5)
         payment_url = p2p.check(bill_id=message.from_user.id+1).pay_url
         pkb_btn_1 = InlineKeyboardButton('Оплатить', url=payment_url)
-        pkb_btn_2 = (InlineKeyboardButton(text="Зачислить на счет", callback_data='update_balance'))
+        pkb_btn_2 = (InlineKeyboardButton(text="Зачислить на счет", callback_data='update'))
         pkb_mark_1 = InlineKeyboardMarkup.add(pkb_btn_1)
         pkb_full = InlineKeyboardMarkup(row_width=2).add(pkb_btn_1)
         pkb_full.add(pkb_btn_2)
@@ -134,24 +133,24 @@ async def create_bill(message:types.Message, state: FSMContext):
         logging.logger_info.info(f'Пользователь {message.from_user.id} ввел некорректные данные')
 
 
-@dp.callback_query_handler(lambda c: c.data == 'update_balance')
-async def process_callback_balance_update(callback_query: types.CallbackQuery, state='*'):
+@dp.callback_query_handler(lambda c: c.data == 'update')
+async def process_callback_balance_update(callback_query: types.CallbackQuery, state=UserStates.waiting_for_payment):
     if user.get_user_block_status(callback_query.from_user.id):
         await callback_query.message.answer('Вы были заблокированы')
         logging.logger_warn.warning(f'Заблокированный пользователь {callback_query.from_user.id} пытался подключиться к боту!')
     else:
         if p2p.check(bill_id=callback_query.from_user.id+1).status != 'PAID':
-            await callback_query.message.answer('Оплата не прошла!')
+            await callback_query.message.answer(text='Оплата не прошла!')
             logging.logger_warn.warning(f'Пользователь {callback_query.from_user.id} пытался пополнить баланс с неоплаченным счетом!')
         else:
             current_balance = user.get_user_balance(callback_query.from_user.id)
-            new_balance = current_balance + p2p.check(bill_id=callback_query.from_user.id+1).amount
+            new_balance = current_balance + float(p2p.check(bill_id=callback_query.from_user.id+1).amount)
             logging.logger_info.info(f'Производится зачисление средств на баланс пользователя {callback_query.from_user.id}')
-            await user.change_user_balance(callback_query.from_user.id, new_balance)
-            await callback_query.message.answer('Деньги зачислены')
+            user.change_user_balance(callback_query.from_user.id, new_balance)
+            await callback_query.message.answer(text='Деньги зачислены')
             await state.finish()
             logging.logger_info.info(f'Деньги зачислены. Баланс пользователя {new_balance}')
-            await callback_query.answer()
+            
 
 if __name__ == "__main__":
     start_handler(dp)

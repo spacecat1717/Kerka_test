@@ -347,3 +347,26 @@ LINE 3: ...ES (nextval('user_sequence'), 666, 'test6', 0, false, false)
 2022-08-17 13:41:52,877 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
 2022-08-17 13:42:42,120 - error - ERROR - User312472285 is already admin!
 2022-08-17 13:42:42,287 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
+2022-08-17 16:51:35,460 - error - ERROR - User111 does not exists!
+2022-08-17 16:51:35,530 - error - ERROR - User111 does not exists!
+2022-08-17 16:51:35,543 - error - ERROR - User 123 does not exists!
+2022-08-17 16:51:35,553 - warning - WARNING - User111 does not exists!
+2022-08-17 16:51:35,564 - error - ERROR - User111 does not exists!
+2022-08-17 16:51:35,569 - error - ERROR - User666 was not blocked!
+2022-08-17 16:51:35,575 - warning - WARNING - User 111 does not exists!
+2022-08-17 16:51:35,578 - error - ERROR - User111 does not exists!
+2022-08-17 16:52:07,143 - error - ERROR - User111 does not exists!
+2022-08-17 16:52:07,188 - error - ERROR - User111 does not exists!
+2022-08-17 16:52:07,334 - error - ERROR - User666 is already admin!
+2022-08-17 16:52:07,338 - error - ERROR - User555 was alresdy blocked!
+2022-08-17 16:52:07,366 - error - ERROR - User666 is already admin!
+2022-08-17 16:52:07,369 - error - ERROR - User555 was alresdy blocked!
+2022-08-17 16:52:07,375 - error - ERROR - User 123 does not exists!
+2022-08-17 16:52:07,387 - warning - WARNING - User111 does not exists!
+2022-08-17 16:52:07,397 - error - ERROR - User111 does not exists!
+2022-08-17 16:52:07,403 - error - ERROR - User666 was not blocked!
+2022-08-17 16:52:07,407 - warning - WARNING - User 111 does not exists!
+2022-08-17 16:52:07,410 - error - ERROR - User111 does not exists!
+2022-08-17 17:54:17,445 - warning - WARNING - Пользователь 666 пытался пополнить баланс с неоплаченным счетом!
+2022-08-17 18:09:32,905 - warning - WARNING - User888 does not exists!
+2022-08-17 18:09:33,110 - error - ERROR - User888 does not exists!

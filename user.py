@@ -1,12 +1,12 @@
 import psycopg2
 from log_settings import LoggingSettings
+import main_settings
 
 
 class User():
     #TODO в конце поставить заглушки вместо данных ДБ
     logging = LoggingSettings()
-    conn = psycopg2.connect(dbname='kerka_test_db',
-                            user='postgres', password='Teatea_0', host='localhost')
+    conn = main_settings.conn
     cursor = conn.cursor()
     def __init__(self):
         try:
@@ -46,7 +46,7 @@ class User():
         value = (user_id, )
         self.cursor.execute(command, value)
         if self.cursor.fetchone() is not None:
-            self.logging.logger_info.info(f'User{user_id} exists')
+            self.logging.logger_info.info(f'User {user_id} exists')
             return True
         self.logging.logger_info.info(f'User {user_id} does not exists')
         return False
@@ -65,23 +65,6 @@ class User():
             return True
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_crit.critical(error)
-
-    def get_user_id(self, username):
-        self.logging.logger_info.info(f'Trying to execute user id for user {username}')
-        try:
-            command = (
-                """
-                SELECT user_id FROM users WHERE username = %s
-                """
-            )
-            value = username
-            self.cursor.execute(command, (value, ))
-            res = self.cursor.fetchone()[0]
-            self.logging.logger_info.info(f'Id for user {username} executed!')
-            return res
-        except:
-            self.logging.logger_error.error(f'User {user_id} does not exists!')
-            return False
 
     def get_user_admin_status(self, user_id):
         self.logging.logger_info.info(f'Trying to execute admin status for user {user_id}')
@@ -243,6 +226,5 @@ class User():
                 return False
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
-
 
 
