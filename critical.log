@@ -341,3 +341,9 @@ LINE 3: ...ES (nextval('user_sequence'), 666, 'test6', 0, false, false)
 2022-08-16 15:31:47,361 - error - ERROR - User312472285 is already admin!
 2022-08-16 15:34:31,264 - error - ERROR - User312472285 is already admin!
 2022-08-16 15:34:31,373 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
+2022-08-17 13:41:12,892 - error - ERROR - User312472285 is already admin!
+2022-08-17 13:41:13,141 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
+2022-08-17 13:41:52,796 - error - ERROR - User312472285 is already admin!
+2022-08-17 13:41:52,877 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285
+2022-08-17 13:42:42,120 - error - ERROR - User312472285 is already admin!
+2022-08-17 13:42:42,287 - warning - WARNING - Осуществлен вход в админ-панель пользователем 312472285

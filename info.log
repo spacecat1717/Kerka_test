@@ -2208,3 +2208,447 @@
 2022-08-16 21:57:14,460 - info - INFO - Пользователь 312472285 вводит сумму пополнения
 2022-08-16 21:57:15,817 - info - INFO - Создается счет
 2022-08-16 21:57:16,120 - info - INFO - Создан счет #312472285 на сумму 2 для пользователя 312472285
+2022-08-17 10:13:11,330 - info - INFO - Users table is ready to work
+2022-08-17 10:13:23,140 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:13:23,369 - info - INFO - User312472285 exists
+2022-08-17 10:13:23,369 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:13:23,371 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:13:25,066 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:13:25,068 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:13:25,298 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:13:27,976 - info - INFO - Создается счет
+2022-08-17 10:13:28,869 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:14:19,403 - info - INFO - Users table is ready to work
+2022-08-17 10:14:22,401 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:14:22,404 - info - INFO - User312472285 exists
+2022-08-17 10:14:22,404 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:14:22,405 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:14:23,473 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:14:23,475 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:14:23,556 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:14:25,130 - info - INFO - Создается счет
+2022-08-17 10:14:25,436 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:15:56,079 - info - INFO - Users table is ready to work
+2022-08-17 10:15:58,625 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:15:58,628 - info - INFO - User312472285 exists
+2022-08-17 10:15:58,629 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:15:58,630 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:15:59,863 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:15:59,865 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:16:00,104 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:16:01,376 - info - INFO - Создается счет
+2022-08-17 10:16:01,800 - info - INFO - Создан счет #312472285 на сумму 2 для пользователя 312472285
+2022-08-17 10:16:25,870 - info - INFO - Users table is ready to work
+2022-08-17 10:17:45,081 - info - INFO - Users table is ready to work
+2022-08-17 10:17:48,182 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:17:48,186 - info - INFO - User312472285 exists
+2022-08-17 10:17:48,187 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:17:48,190 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:17:49,386 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:17:49,388 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:17:49,455 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:17:50,819 - info - INFO - Создается счет
+2022-08-17 10:17:51,107 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:31:47,854 - info - INFO - Users table is ready to work
+2022-08-17 10:31:50,408 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:31:50,411 - info - INFO - User312472285 exists
+2022-08-17 10:31:50,411 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:31:50,413 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:31:51,379 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:31:51,382 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:31:51,450 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:31:53,021 - info - INFO - Создается счет
+2022-08-17 10:31:54,109 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:32:23,762 - info - INFO - Users table is ready to work
+2022-08-17 10:32:27,313 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:32:27,317 - info - INFO - User312472285 exists
+2022-08-17 10:32:27,318 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:32:27,320 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:32:28,646 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:32:28,648 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:32:28,728 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:32:30,275 - info - INFO - Создается счет
+2022-08-17 10:32:30,617 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:34:21,569 - info - INFO - Users table is ready to work
+2022-08-17 10:34:24,048 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:34:24,052 - info - INFO - User312472285 exists
+2022-08-17 10:34:24,052 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:34:24,054 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:34:25,291 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:34:25,295 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:34:25,361 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:34:26,594 - info - INFO - Создается счет
+2022-08-17 10:34:26,956 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:39:41,130 - info - INFO - Users table is ready to work
+2022-08-17 10:39:46,003 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:39:46,007 - info - INFO - User312472285 exists
+2022-08-17 10:39:46,008 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:39:46,010 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:39:47,303 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:39:47,305 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:39:47,431 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:39:48,975 - info - INFO - Создается счет
+2022-08-17 10:39:49,349 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:42:23,479 - info - INFO - Users table is ready to work
+2022-08-17 10:42:27,196 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:42:27,201 - info - INFO - User312472285 exists
+2022-08-17 10:42:27,201 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:42:27,203 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:42:28,198 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:42:28,200 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:42:28,292 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:42:29,526 - info - INFO - Создается счет
+2022-08-17 10:42:29,798 - info - INFO - Создан счет #312472285 на сумму 5 для пользователя 312472285
+2022-08-17 10:43:31,235 - info - INFO - Users table is ready to work
+2022-08-17 10:43:35,056 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:43:35,061 - info - INFO - User312472285 exists
+2022-08-17 10:43:35,062 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:43:35,066 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:43:35,956 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:43:35,959 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:43:36,043 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:43:37,277 - info - INFO - Создается счет
+2022-08-17 10:43:37,626 - info - INFO - Создан счет #312472285 на сумму 5 для пользователя 312472285
+2022-08-17 10:44:35,030 - info - INFO - Users table is ready to work
+2022-08-17 10:44:38,538 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:44:38,543 - info - INFO - User312472285 exists
+2022-08-17 10:44:38,544 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:44:38,546 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:44:39,516 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:44:39,519 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:44:39,593 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:44:41,361 - info - INFO - Создается счет
+2022-08-17 10:44:41,613 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:47:04,904 - info - INFO - Users table is ready to work
+2022-08-17 10:47:07,301 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:47:07,304 - info - INFO - User312472285 exists
+2022-08-17 10:47:07,305 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:47:07,307 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:47:08,300 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:47:08,302 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:47:08,388 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:47:09,581 - info - INFO - Создается счет
+2022-08-17 10:47:09,907 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:54:02,486 - info - INFO - Users table is ready to work
+2022-08-17 10:54:38,836 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:54:38,839 - info - INFO - User312472285 exists
+2022-08-17 10:54:38,839 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:54:38,841 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:54:39,879 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:54:39,883 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:54:39,989 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:54:40,987 - info - INFO - Создается счет
+2022-08-17 10:54:41,363 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 10:56:20,542 - info - INFO - Users table is ready to work
+2022-08-17 10:56:22,902 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 10:56:22,906 - info - INFO - User312472285 exists
+2022-08-17 10:56:22,907 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:56:22,909 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:56:23,947 - info - INFO - Checking block status for user 312472285
+2022-08-17 10:56:23,949 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 10:56:24,140 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 10:56:26,430 - info - INFO - Создается счет
+2022-08-17 11:09:08,508 - info - INFO - Users table is ready to work
+2022-08-17 11:09:11,275 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:09:11,279 - info - INFO - User312472285 exists
+2022-08-17 11:09:11,280 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:09:11,282 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:09:12,410 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:09:12,412 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:09:12,487 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:09:13,836 - info - INFO - Создается счет
+2022-08-17 11:09:14,194 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 11:18:41,088 - info - INFO - Users table is ready to work
+2022-08-17 11:18:43,625 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:18:43,629 - info - INFO - User312472285 exists
+2022-08-17 11:18:43,630 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:18:43,631 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:18:44,649 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:18:44,651 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:18:44,756 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:18:46,024 - info - INFO - Создается счет
+2022-08-17 11:18:46,403 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 11:19:43,721 - info - INFO - Users table is ready to work
+2022-08-17 11:19:46,753 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:19:46,759 - info - INFO - User312472285 exists
+2022-08-17 11:19:46,759 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:19:46,761 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:19:47,830 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:19:47,833 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:19:47,934 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:19:49,987 - info - INFO - Создается счет
+2022-08-17 11:20:56,464 - info - INFO - Users table is ready to work
+2022-08-17 11:20:58,838 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:20:58,842 - info - INFO - User312472285 exists
+2022-08-17 11:20:58,842 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:20:58,844 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:21:00,162 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:21:00,164 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:21:00,240 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:21:01,863 - info - INFO - Создается счет
+2022-08-17 11:21:24,075 - info - INFO - Users table is ready to work
+2022-08-17 11:21:26,229 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:21:26,234 - info - INFO - User312472285 exists
+2022-08-17 11:21:26,234 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:21:26,236 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:21:27,517 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:21:27,519 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:21:27,810 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:21:29,270 - info - INFO - Создается счет
+2022-08-17 11:21:29,866 - info - INFO - Создан счет #312472285 на сумму 1 для пользователя 312472285
+2022-08-17 11:22:11,771 - info - INFO - Users table is ready to work
+2022-08-17 11:22:17,052 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:22:17,057 - info - INFO - User312472285 exists
+2022-08-17 11:22:17,057 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:22:17,060 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:22:18,297 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:22:18,299 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:22:18,379 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:22:20,488 - info - INFO - Создается счет
+2022-08-17 11:22:20,823 - info - INFO - Создан счет #212332030 на сумму 1 для пользователя 312472285
+2022-08-17 11:22:54,744 - info - INFO - Users table is ready to work
+2022-08-17 11:23:01,955 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:23:01,961 - info - INFO - User312472285 exists
+2022-08-17 11:23:01,961 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:23:01,966 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:23:03,106 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:23:03,109 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:23:03,205 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:23:04,436 - info - INFO - Создается счет
+2022-08-17 11:23:04,977 - info - INFO - Создан счет #212332031 на сумму 5 для пользователя 312472285
+2022-08-17 11:31:21,217 - info - INFO - Users table is ready to work
+2022-08-17 11:31:24,020 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:31:24,024 - info - INFO - User312472285 exists
+2022-08-17 11:31:24,025 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:31:24,026 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:31:25,503 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:31:25,506 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:31:25,573 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:31:27,404 - info - INFO - Создается счет
+2022-08-17 11:32:09,148 - info - INFO - Users table is ready to work
+2022-08-17 11:32:15,537 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:32:15,542 - info - INFO - User312472285 exists
+2022-08-17 11:32:15,544 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:32:15,546 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:32:16,595 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:32:16,597 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:32:16,703 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:32:18,886 - info - INFO - Создается счет
+2022-08-17 11:33:59,958 - info - INFO - Users table is ready to work
+2022-08-17 11:34:03,334 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:34:03,338 - info - INFO - User312472285 exists
+2022-08-17 11:34:03,339 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:34:03,341 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:34:04,441 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:34:04,444 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:34:04,521 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:34:05,724 - info - INFO - Создается счет
+2022-08-17 11:34:05,982 - info - INFO - Создан счет #312472285 на сумму 5 для пользователя 312472285
+2022-08-17 11:34:53,645 - info - INFO - Users table is ready to work
+2022-08-17 11:34:56,009 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:34:56,014 - info - INFO - User312472285 exists
+2022-08-17 11:34:56,014 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:34:56,016 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:34:57,108 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:34:57,110 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:34:57,345 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:34:58,606 - info - INFO - Создается счет
+2022-08-17 11:34:58,873 - info - INFO - Создан счет #312472286 на сумму 5 для пользователя 312472285
+2022-08-17 11:42:24,114 - info - INFO - Users table is ready to work
+2022-08-17 11:42:26,247 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:42:26,250 - info - INFO - User312472285 exists
+2022-08-17 11:42:26,251 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:42:26,252 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:42:27,525 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:42:27,527 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:42:27,596 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:42:30,007 - info - INFO - Создается счет
+2022-08-17 11:42:30,391 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-17 11:58:46,448 - info - INFO - Users table is ready to work
+2022-08-17 11:58:50,209 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 11:58:50,213 - info - INFO - User312472285 exists
+2022-08-17 11:58:50,213 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:58:50,216 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:58:51,454 - info - INFO - Checking block status for user 312472285
+2022-08-17 11:58:51,457 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 11:58:51,527 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 11:58:52,726 - info - INFO - Создается счет
+2022-08-17 11:58:53,033 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 12:09:19,220 - info - INFO - Users table is ready to work
+2022-08-17 12:09:21,919 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:09:21,922 - info - INFO - User312472285 exists
+2022-08-17 12:09:21,923 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:09:21,926 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:09:23,329 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:09:23,333 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:09:23,515 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:09:25,446 - info - INFO - Создается счет
+2022-08-17 12:09:25,831 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 12:11:30,619 - info - INFO - Users table is ready to work
+2022-08-17 12:11:33,320 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:11:33,325 - info - INFO - User312472285 exists
+2022-08-17 12:11:33,326 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:11:33,329 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:11:34,508 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:11:34,510 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:11:34,614 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:11:36,261 - info - INFO - Создается счет
+2022-08-17 12:11:36,527 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-17 12:16:33,933 - info - INFO - Users table is ready to work
+2022-08-17 12:16:36,327 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:16:36,332 - info - INFO - User312472285 exists
+2022-08-17 12:16:36,332 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:16:36,334 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:16:37,327 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:16:37,331 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:16:37,403 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:16:39,660 - info - INFO - Создается счет
+2022-08-17 12:16:40,050 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-17 12:21:13,861 - info - INFO - Users table is ready to work
+2022-08-17 12:21:26,572 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:21:26,577 - info - INFO - User312472285 exists
+2022-08-17 12:21:26,578 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:21:26,579 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:21:30,487 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:21:30,491 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:21:30,613 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:21:41,371 - info - INFO - Создается счет
+2022-08-17 12:21:41,929 - info - INFO - Создан счет #312472286 на сумму 5 для пользователя 312472285
+2022-08-17 12:26:04,439 - info - INFO - Users table is ready to work
+2022-08-17 12:26:06,809 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:26:06,814 - info - INFO - User312472285 exists
+2022-08-17 12:26:06,815 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:26:06,818 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:26:17,574 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:26:17,577 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:26:17,660 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:26:21,543 - info - INFO - Создается счет
+2022-08-17 12:26:21,842 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 12:27:18,311 - info - INFO - Users table is ready to work
+2022-08-17 12:27:21,610 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:27:21,616 - info - INFO - User312472285 exists
+2022-08-17 12:27:21,617 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:27:21,620 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:27:22,785 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:27:22,787 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:27:22,961 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:27:25,610 - info - INFO - Создается счет
+2022-08-17 12:27:25,913 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-17 12:29:35,071 - info - INFO - Users table is ready to work
+2022-08-17 12:29:37,633 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:29:37,648 - info - INFO - User312472285 exists
+2022-08-17 12:29:37,649 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:29:37,650 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:29:39,178 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:29:39,179 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:29:39,306 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:29:40,985 - info - INFO - Создается счет
+2022-08-17 12:29:41,255 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 12:31:27,795 - info - INFO - Users table is ready to work
+2022-08-17 12:31:33,382 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:31:33,386 - info - INFO - User312472285 exists
+2022-08-17 12:31:33,387 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:31:33,391 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:31:34,431 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:31:34,434 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:31:34,512 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:31:36,633 - info - INFO - Создается счет
+2022-08-17 12:31:36,966 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-17 12:32:27,338 - info - INFO - Users table is ready to work
+2022-08-17 12:32:30,192 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:32:30,200 - info - INFO - User312472285 exists
+2022-08-17 12:32:30,201 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:32:30,203 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:32:31,267 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:32:31,268 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:32:31,377 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:32:33,585 - info - INFO - Создается счет
+2022-08-17 12:32:34,145 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-17 12:40:26,742 - info - INFO - Users table is ready to work
+2022-08-17 12:40:30,615 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:40:30,621 - info - INFO - User312472285 exists
+2022-08-17 12:40:30,623 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:40:30,625 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:40:34,435 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:40:34,441 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:40:34,526 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:40:36,297 - info - INFO - Создается счет
+2022-08-17 12:40:36,729 - info - INFO - Создан счет #312472286 на сумму 1 для пользователя 312472285
+2022-08-17 12:42:37,028 - info - INFO - Users table is ready to work
+2022-08-17 12:42:39,909 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:42:39,912 - info - INFO - User312472285 exists
+2022-08-17 12:42:39,912 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:42:39,914 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:42:40,987 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:42:40,990 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:42:41,108 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:42:42,835 - info - INFO - Создается счет
+2022-08-17 12:42:43,218 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-17 12:45:40,154 - info - INFO - Users table is ready to work
+2022-08-17 12:53:07,974 - info - INFO - Users table is ready to work
+2022-08-17 12:53:14,566 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 12:53:14,571 - info - INFO - User312472285 exists
+2022-08-17 12:53:14,572 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:53:14,576 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:53:16,089 - info - INFO - Checking block status for user 312472285
+2022-08-17 12:53:16,091 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 12:53:16,167 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 12:53:21,021 - info - INFO - Создается счет
+2022-08-17 12:53:21,398 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-17 13:21:49,573 - info - INFO - Users table is ready to work
+2022-08-17 13:22:07,199 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:22:07,203 - info - INFO - User312472285 exists
+2022-08-17 13:22:07,203 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:22:07,205 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:22:08,492 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:22:08,494 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:22:08,560 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 13:22:11,007 - info - INFO - Создается счет
+2022-08-17 13:22:12,338 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 13:25:33,262 - info - INFO - Users table is ready to work
+2022-08-17 13:25:36,669 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:25:36,673 - info - INFO - User312472285 exists
+2022-08-17 13:25:36,674 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:25:36,675 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:25:37,830 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:25:37,831 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:25:37,935 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 13:25:40,297 - info - INFO - Создается счет
+2022-08-17 13:25:40,667 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-17 13:36:33,902 - info - INFO - Users table is ready to work
+2022-08-17 13:36:35,931 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:36:35,934 - info - INFO - User312472285 exists
+2022-08-17 13:36:35,935 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:36:35,937 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:36:37,141 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:36:37,143 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:36:37,220 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 13:36:39,945 - info - INFO - Создается счет
+2022-08-17 13:36:40,662 - info - INFO - Создан счет #312472286 на сумму 1 для пользователя 312472285
+2022-08-17 13:40:52,356 - info - INFO - Users table is ready to work
+2022-08-17 13:40:54,734 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:40:54,738 - info - INFO - User312472285 exists
+2022-08-17 13:40:54,739 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:40:54,740 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:40:55,956 - info - INFO - Checking block status for user 312472285
+2022-08-17 13:40:55,957 - info - INFO - Block status of user 312472285 executed!
+2022-08-17 13:40:56,040 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-17 13:40:58,029 - info - INFO - Создается счет
+2022-08-17 13:40:58,417 - info - INFO - Создан счет #312472286 на сумму 1 для пользователя 312472285
+2022-08-17 13:41:12,884 - info - INFO - Giving an admin status to user 312472285
+2022-08-17 13:41:12,885 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:41:12,887 - info - INFO - User312472285 exists
+2022-08-17 13:41:12,888 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-17 13:41:12,890 - info - INFO - Admin status for user 312472285 executed!
+2022-08-17 13:41:49,984 - info - INFO - Users table is ready to work
+2022-08-17 13:41:52,785 - info - INFO - Giving an admin status to user 312472285
+2022-08-17 13:41:52,787 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:41:52,793 - info - INFO - User312472285 exists
+2022-08-17 13:41:52,793 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-17 13:41:52,795 - info - INFO - Admin status for user 312472285 executed!
+2022-08-17 13:42:38,050 - info - INFO - Users table is ready to work
+2022-08-17 13:42:42,113 - info - INFO - Giving an admin status to user 312472285
+2022-08-17 13:42:42,114 - info - INFO - Trying to find user 312472285 in DB
+2022-08-17 13:42:42,118 - info - INFO - User312472285 exists
+2022-08-17 13:42:42,118 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-17 13:42:42,120 - info - INFO - Admin status for user 312472285 executed!
