@@ -2960,3 +2960,310 @@
 2022-08-17 18:27:55,347 - info - INFO - Пользователь 312472285 вводит сумму пополнения
 2022-08-17 18:27:57,695 - info - INFO - Создается счет
 2022-08-17 18:27:57,940 - info - INFO - Создан счет #312472286 на сумму 1 для пользователя 312472285
+2022-08-18 09:39:35,362 - info - INFO - Users table is ready to work
+2022-08-18 09:39:50,628 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:39:50,834 - info - INFO - User 312472285 exists
+2022-08-18 09:39:50,835 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:39:50,836 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:39:52,905 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:39:52,907 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:39:52,991 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:39:55,849 - info - INFO - Создается счет
+2022-08-18 09:39:56,221 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-18 09:40:38,257 - info - INFO - Users table is ready to work
+2022-08-18 09:40:46,383 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:40:46,388 - info - INFO - User 312472285 exists
+2022-08-18 09:40:46,389 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:40:46,391 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:40:47,693 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:40:47,694 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:40:47,836 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:40:49,733 - info - INFO - Создается счет
+2022-08-18 09:40:50,036 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-18 09:41:36,644 - info - INFO - Users table is ready to work
+2022-08-18 09:41:52,840 - info - INFO - Users table is ready to work
+2022-08-18 09:43:06,068 - info - INFO - Users table is ready to work
+2022-08-18 09:43:15,537 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:43:15,543 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:44:49,942 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:44:49,944 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:49:50,220 - info - INFO - Users table is ready to work
+2022-08-18 09:50:03,130 - info - INFO - Users table is ready to work
+2022-08-18 09:50:07,372 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 09:50:07,373 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:50:07,378 - info - INFO - User 312472285 exists
+2022-08-18 09:50:07,379 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 09:50:07,380 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 09:51:44,708 - info - INFO - Users table is ready to work
+2022-08-18 09:51:48,010 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 09:51:48,010 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:51:48,015 - info - INFO - User 312472285 exists
+2022-08-18 09:51:48,016 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 09:51:48,017 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 09:53:04,770 - info - INFO - Users table is ready to work
+2022-08-18 09:53:10,310 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:53:10,314 - info - INFO - User 312472285 exists
+2022-08-18 09:53:10,314 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:53:10,316 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:53:11,850 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:53:11,851 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:53:11,993 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:53:14,162 - info - INFO - Создается счет
+2022-08-18 09:53:14,481 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-18 09:53:52,787 - info - INFO - Users table is ready to work
+2022-08-18 09:53:58,331 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:53:58,335 - info - INFO - User 312472285 exists
+2022-08-18 09:53:58,336 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:53:58,337 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:53:59,499 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:53:59,502 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:53:59,595 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:54:01,083 - info - INFO - Создается счет
+2022-08-18 09:54:01,355 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-18 09:54:52,264 - info - INFO - Users table is ready to work
+2022-08-18 09:55:00,936 - info - INFO - Users table is ready to work
+2022-08-18 09:55:03,924 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:55:03,931 - info - INFO - User 312472285 exists
+2022-08-18 09:55:03,931 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:55:03,934 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:55:04,787 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:55:04,788 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:55:04,890 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:55:06,143 - info - INFO - Создается счет
+2022-08-18 09:55:06,451 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-18 09:56:37,712 - info - INFO - Users table is ready to work
+2022-08-18 09:56:43,639 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:56:43,642 - info - INFO - User 312472285 exists
+2022-08-18 09:56:43,643 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:56:43,645 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:57:39,974 - info - INFO - Users table is ready to work
+2022-08-18 09:57:42,442 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:57:42,445 - info - INFO - User 312472285 exists
+2022-08-18 09:57:42,446 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:57:42,447 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:57:43,729 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:57:43,731 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:57:43,810 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:57:45,908 - info - INFO - Создается счет
+2022-08-18 09:57:46,344 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-18 09:58:56,467 - info - INFO - Users table is ready to work
+2022-08-18 09:59:06,722 - info - INFO - Users table is ready to work
+2022-08-18 09:59:13,143 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 09:59:13,152 - info - INFO - User 312472285 exists
+2022-08-18 09:59:13,153 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:59:13,155 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:59:14,422 - info - INFO - Checking block status for user 312472285
+2022-08-18 09:59:14,424 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 09:59:14,514 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 09:59:16,045 - info - INFO - Создается счет
+2022-08-18 09:59:16,347 - info - INFO - Создан счет #312472286 на сумму 1 для пользователя 312472285
+2022-08-18 10:00:11,434 - info - INFO - Users table is ready to work
+2022-08-18 10:00:14,998 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 10:00:15,002 - info - INFO - User 312472285 exists
+2022-08-18 10:00:15,002 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:00:15,004 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:00:16,054 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:00:16,056 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:00:16,181 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 10:00:17,952 - info - INFO - Создается счет
+2022-08-18 10:00:18,262 - info - INFO - Создан счет #312472286 на сумму 5 для пользователя 312472285
+2022-08-18 10:40:28,794 - info - INFO - Users table is ready to work
+2022-08-18 10:40:49,917 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 10:40:49,922 - info - INFO - User 312472285 exists
+2022-08-18 10:40:49,923 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:40:49,925 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:40:51,115 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:40:51,117 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:40:51,195 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 10:40:52,744 - info - INFO - Создается счет
+2022-08-18 10:40:53,170 - info - INFO - Создан счет #312472286 на сумму 4 для пользователя 312472285
+2022-08-18 10:52:24,227 - info - INFO - Users table is ready to work
+2022-08-18 10:52:31,693 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 10:52:31,698 - info - INFO - User 312472285 exists
+2022-08-18 10:52:31,699 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:52:31,701 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:52:32,827 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:52:32,829 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:52:32,906 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 10:52:34,884 - info - INFO - Создается счет
+2022-08-18 10:52:35,255 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-18 10:55:41,284 - info - INFO - Users table is ready to work
+2022-08-18 10:55:49,268 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 10:55:49,274 - info - INFO - User 312472285 exists
+2022-08-18 10:55:49,274 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:55:49,276 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:55:50,359 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:55:50,361 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 10:55:50,433 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 10:55:52,242 - info - INFO - Создается счет
+2022-08-18 10:55:52,607 - info - INFO - Создан счет #312472286 на сумму 7 для пользователя 312472285
+2022-08-18 10:55:53,473 - info - INFO - Checking block status for user 312472285
+2022-08-18 10:55:53,475 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:00:49,988 - info - INFO - Users table is ready to work
+2022-08-18 11:00:56,481 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:00:56,488 - info - INFO - User 312472285 exists
+2022-08-18 11:00:56,489 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:00:56,491 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:00:57,682 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:00:57,684 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:00:57,776 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 11:00:59,539 - info - INFO - Создается счет
+2022-08-18 11:00:59,810 - info - INFO - Создан счет #312472286 на сумму 8 для пользователя 312472285
+2022-08-18 11:01:00,917 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:01:00,919 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:11:32,082 - info - INFO - Users table is ready to work
+2022-08-18 11:11:49,943 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:11:49,944 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:11:49,948 - info - INFO - User 312472285 exists
+2022-08-18 11:11:49,949 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:11:49,951 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:17:17,397 - info - INFO - Users table is ready to work
+2022-08-18 11:17:26,257 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:17:26,258 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:17:26,261 - info - INFO - User 312472285 exists
+2022-08-18 11:17:26,262 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:17:26,264 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:23:35,897 - info - INFO - Users table is ready to work
+2022-08-18 11:23:45,330 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:23:45,331 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:23:45,335 - info - INFO - User 312472285 exists
+2022-08-18 11:23:45,336 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:23:45,337 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:32:20,896 - info - INFO - Users table is ready to work
+2022-08-18 11:32:29,790 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:32:29,792 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:32:29,796 - info - INFO - User 312472285 exists
+2022-08-18 11:32:29,796 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:32:29,798 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:33:23,353 - info - INFO - Users table is ready to work
+2022-08-18 11:33:25,978 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:33:25,979 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:33:25,981 - info - INFO - User 312472285 exists
+2022-08-18 11:33:25,982 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:33:25,983 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:42:54,878 - info - INFO - Users table is ready to work
+2022-08-18 11:43:02,246 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:43:02,247 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:43:02,253 - info - INFO - User 312472285 exists
+2022-08-18 11:43:02,254 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:43:02,255 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:44:13,579 - info - INFO - Users table is ready to work
+2022-08-18 11:44:21,603 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:44:21,608 - info - INFO - User 312472285 exists
+2022-08-18 11:44:21,609 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:44:21,610 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:44:23,275 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:44:23,278 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:44:23,356 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 11:44:25,024 - info - INFO - Создается счет
+2022-08-18 11:44:25,589 - info - INFO - Создан счет #312472286 на сумму 4 для пользователя 312472285
+2022-08-18 11:44:28,463 - info - INFO - Checking block status for user 312472285
+2022-08-18 11:44:28,465 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 11:44:31,843 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 11:44:31,844 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 11:44:31,846 - info - INFO - User 312472285 exists
+2022-08-18 11:44:31,847 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:44:31,849 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:49:17,519 - info - INFO - Users table is ready to work
+2022-08-18 11:49:17,717 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:50:07,330 - info - INFO - Users table is ready to work
+2022-08-18 11:50:07,363 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:50:39,535 - info - INFO - Users table is ready to work
+2022-08-18 11:50:39,575 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:50:58,380 - info - INFO - Users table is ready to work
+2022-08-18 11:50:58,420 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:50:58,424 - info - INFO - Users table is ready to work
+2022-08-18 11:50:58,425 - info - INFO - Trying to execute admin status for user 888
+2022-08-18 11:50:58,428 - info - INFO - Admin status for user 888 executed!
+2022-08-18 11:51:28,654 - info - INFO - Users table is ready to work
+2022-08-18 11:51:28,689 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:51:28,698 - info - INFO - Users table is ready to work
+2022-08-18 11:51:28,700 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:51:28,703 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:51:28,704 - info - INFO - Start getting all users info
+2022-08-18 11:51:28,706 - info - INFO - Data got
+2022-08-18 11:53:41,158 - info - INFO - Users table is ready to work
+2022-08-18 11:53:41,193 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:53:41,197 - info - INFO - Users table is ready to work
+2022-08-18 11:53:41,198 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:53:41,200 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:53:41,201 - info - INFO - Start getting all users info
+2022-08-18 11:53:41,203 - info - INFO - Data got
+2022-08-18 11:54:05,485 - info - INFO - Users table is ready to work
+2022-08-18 11:54:05,519 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:54:05,525 - info - INFO - Users table is ready to work
+2022-08-18 11:54:05,526 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:54:05,528 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:54:05,529 - info - INFO - Start getting all users info
+2022-08-18 11:54:05,532 - info - INFO - Data got
+2022-08-18 11:54:34,243 - info - INFO - Users table is ready to work
+2022-08-18 11:54:34,279 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:54:34,285 - info - INFO - Users table is ready to work
+2022-08-18 11:54:34,286 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:54:34,289 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:54:34,290 - info - INFO - Start getting all users info
+2022-08-18 11:54:34,292 - info - INFO - Data got
+2022-08-18 11:55:32,714 - info - INFO - Users table is ready to work
+2022-08-18 11:55:32,753 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:55:32,757 - info - INFO - Users table is ready to work
+2022-08-18 11:55:32,758 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:55:32,761 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:55:32,762 - info - INFO - Start getting all users info
+2022-08-18 11:55:32,764 - info - INFO - Data got
+2022-08-18 11:56:02,477 - info - INFO - Users table is ready to work
+2022-08-18 11:56:02,513 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:56:02,518 - info - INFO - Users table is ready to work
+2022-08-18 11:56:02,519 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:56:02,522 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:56:02,524 - info - INFO - Start getting all users info
+2022-08-18 11:56:02,527 - info - INFO - Data got
+2022-08-18 11:56:02,532 - info - INFO - Выгружен список пользователей
+2022-08-18 11:57:03,109 - info - INFO - Users table is ready to work
+2022-08-18 11:57:03,142 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:57:03,150 - info - INFO - Users table is ready to work
+2022-08-18 11:57:03,153 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:57:03,155 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:57:03,156 - info - INFO - Start getting all users info
+2022-08-18 11:57:03,158 - info - INFO - Data got
+2022-08-18 11:58:33,019 - info - INFO - Users table is ready to work
+2022-08-18 11:58:33,052 - info - INFO - User888, test8 was created in DB
+2022-08-18 11:58:33,057 - info - INFO - Users table is ready to work
+2022-08-18 11:58:33,058 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 11:58:33,061 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 11:58:33,062 - info - INFO - Start getting all users info
+2022-08-18 11:58:33,064 - info - INFO - Data got
+2022-08-18 11:58:33,068 - info - INFO - Выгружен список пользователей
+2022-08-18 12:02:50,774 - info - INFO - Users table is ready to work
+2022-08-18 12:02:58,035 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 12:02:58,036 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 12:02:58,041 - info - INFO - User 312472285 exists
+2022-08-18 12:02:58,042 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 12:02:58,044 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 12:03:16,343 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 12:03:16,345 - info - INFO - User 312472285 exists
+2022-08-18 12:03:16,346 - info - INFO - Checking block status for user 312472285
+2022-08-18 12:03:16,348 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 12:03:17,675 - info - INFO - Checking block status for user 312472285
+2022-08-18 12:03:17,676 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 12:03:17,824 - info - INFO - Пользователь 312472285 вводит сумму пополнения
+2022-08-18 12:03:19,578 - info - INFO - Создается счет
+2022-08-18 12:03:19,866 - info - INFO - Создан счет #312472286 на сумму 2 для пользователя 312472285
+2022-08-18 12:03:21,446 - info - INFO - Checking block status for user 312472285
+2022-08-18 12:03:21,449 - info - INFO - Block status of user 312472285 executed!
+2022-08-18 12:06:04,463 - info - INFO - Users table is ready to work
+2022-08-18 12:06:08,969 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 12:06:08,970 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 12:06:08,977 - info - INFO - User 312472285 exists
+2022-08-18 12:06:08,978 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 12:06:08,979 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 12:06:40,643 - info - INFO - Users table is ready to work
+2022-08-18 12:06:42,735 - info - INFO - Giving an admin status to user 312472285
+2022-08-18 12:06:42,735 - info - INFO - Trying to find user 312472285 in DB
+2022-08-18 12:06:42,738 - info - INFO - User 312472285 exists
+2022-08-18 12:06:42,739 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 12:06:42,740 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 12:06:43,762 - info - INFO - Trying to execute admin status for user 312472285
+2022-08-18 12:06:43,763 - info - INFO - Admin status for user 312472285 executed!
+2022-08-18 12:06:43,764 - info - INFO - Start getting all users info
+2022-08-18 12:06:43,767 - info - INFO - Data got
+2022-08-18 12:06:58,832 - info - INFO - Выгружен список пользователей

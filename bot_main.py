@@ -36,18 +36,13 @@ akb.add(InlineKeyboardButton(text="Изменить баланс пользов�
 """states for balance update"""
 class UserStates(StatesGroup):
     waiting_for_payment_sum = State()
-    payment_url = State()
-    payment_sum = State()
     waiting_for_payment = State()
     
 
 """states for admin"""
 class AdminStates(StatesGroup):
     waiting_for_user_id_for_change_balance = State()
-    user_id_for_change_balance_got = State()
     waiting_for_user_id_for_block = State()
-    user_id_for_block_got = State()
-
 
 async def start(message:types.Message):
     user_exists = user.check_user_exists(message.from_user.id)
@@ -85,16 +80,15 @@ def admin_handler(dp: Dispatcher):
     dp.register_message_handler(admin, commands='admin', state='*')
 
 @dp.callback_query_handler(lambda c: c.data == 'users')
-async def process_callback_users(query: types.CallbackQuery):
-    await callback_query.answer(callback_query.from_user.id)
+async def process_callback_users(callback_query: types.CallbackQuery):
     if not user.get_user_admin_status(callback_query.from_user.id):
         await callback_query.message.answer('Недостаточно прав!')
         logging.logger_warn.warning(f'Пользователь {callback_query.from_user.id} пытался зайти в админ-панель!')
     else:
         users_list = user.get_all_users()
-        for user in users:
-            await callback_query.message.answer(f'ID:{user[0]}\nИмя:{user[1]}\nБаланс:{user[2]}')
-            logging.logger_info.info('Выгружен список пользователей')
+        for u in users_list:
+            await callback_query.message.answer(f"ID:{u['user_id']}\nИмя:{u['username']}\nБаланс:{u['balance']}")
+        logging.logger_info.info('Выгружен список пользователей')
             
 
 def create_bill_handler(dp: Dispatcher):
@@ -127,14 +121,14 @@ async def create_bill(message:types.Message, state: FSMContext):
         pkb_full.add(pkb_btn_2)
         logging.logger_info.info(f'Создан счет #{bill.bill_id} на сумму {amount} для пользователя {message.from_user.id}')
         await message.answer('Счет создан!\nНажмите на кнопку, чтобы оплатить', reply_markup=pkb_full)
-        await UserStates.next()
+        await state.finish()
     else:
         await message.answer('Пожалуйста, введите число!')
         logging.logger_info.info(f'Пользователь {message.from_user.id} ввел некорректные данные')
 
 
 @dp.callback_query_handler(lambda c: c.data == 'update')
-async def process_callback_balance_update(callback_query: types.CallbackQuery, state=UserStates.waiting_for_payment):
+async def process_callback_balance_update(callback_query: types.CallbackQuery):
     if user.get_user_block_status(callback_query.from_user.id):
         await callback_query.message.answer('Вы были заблокированы')
         logging.logger_warn.warning(f'Заблокированный пользователь {callback_query.from_user.id} пытался подключиться к боту!')
@@ -148,8 +142,8 @@ async def process_callback_balance_update(callback_query: types.CallbackQuery, s
             logging.logger_info.info(f'Производится зачисление средств на баланс пользователя {callback_query.from_user.id}')
             user.change_user_balance(callback_query.from_user.id, new_balance)
             await callback_query.message.answer(text='Деньги зачислены')
-            await state.finish()
             logging.logger_info.info(f'Деньги зачислены. Баланс пользователя {new_balance}')
+    await state.finish()
             
 
 if __name__ == "__main__":
