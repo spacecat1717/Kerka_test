@@ -3,7 +3,6 @@ from aiogram.dispatcher import FSMContext
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
-from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from pyqiwip2p import QiwiP2P
 from pyqiwip2p.p2p_types import QiwiCustomer, QiwiDatetime
 from log_settings import LoggingSettings
@@ -17,7 +16,6 @@ p2p = QiwiP2P(auth_key=main_settings.QIWI_PRIV_KEY)
 bot = main_settings.bot
 ADMIN = main_settings.ADMIN
 dp = main_settings.dp
-dp.middleware.setup(LoggingMiddleware())
 user = User()
 logging = LoggingSettings()
 
@@ -79,6 +77,15 @@ def start_handler(dp: Dispatcher):
 def admin_handler(dp: Dispatcher):
     dp.register_message_handler(admin, commands='admin', state='*')
 
+def admin_block_handler(dp: Dispatcher):
+    dp.register_message_handler(block_user, state=AdminStates.waiting_for_user_id_for_block)
+
+def admin_change_balance_handler(dp: Dispatcher):
+    dp.register_message_handler(change_balance, state=AdminStates.waiting_for_user_id_for_change_balance)
+
+def create_bill_handler(dp: Dispatcher):
+    dp.register_message_handler(create_bill, state=UserStates.waiting_for_payment_sum)
+
 @dp.callback_query_handler(lambda c: c.data == 'users')
 async def process_callback_users(callback_query: types.CallbackQuery):
     if not user.get_user_admin_status(callback_query.from_user.id):
@@ -89,11 +96,68 @@ async def process_callback_users(callback_query: types.CallbackQuery):
         for u in users_list:
             await callback_query.message.answer(f"ID:{u['user_id']}\nИмя:{u['username']}\nБаланс:{u['balance']}")
         logging.logger_info.info('Выгружен список пользователей')
-            
 
-def create_bill_handler(dp: Dispatcher):
-    dp.register_message_handler(create_bill, state=UserStates.waiting_for_payment_sum)
+@dp.callback_query_handler(lambda c: c.data == 'logs') 
+async def process_callback_logs(callback_query: types.CallbackQuery):
+    if not user.get_user_admin_status(callback_query.from_user.id):
+        await callback_query.message.answer('Недостаточно прав!')
+        logging.logger_warn.warning(f'Пользователь {callback_query.from_user.id} пытался зайти в админ-панель!')
+    else: 
+        await callback_query.message.reply_document(open('info.log','rb'))
+        await callback_query.message.reply_document(open('critical.log', 'rb'))
+        logging.logger_info.info('Выгружены логи')
 
+@dp.callback_query_handler(lambda c: c.data == 'block')
+async def process_callback_block(callback_query: types.CallbackQuery):
+    if not user.get_user_admin_status(callback_query.from_user.id):
+        await callback_query.message.answer('Недостаточно прав!')
+        logging.logger_warn.warning(f'Пользователь {callback_query.from_user.id} пытался зайти в админ-панель!')
+    else:
+        await callback_query.message.answer(text='Введите ID пользователя')
+        logging.logger_info.info('Запрошен ID пользователя для блокировки')
+        await AdminStates.waiting_for_user_id_for_block.set()
+
+@dp.callback_query_handler(lambda c: c.data == 'change_balance')
+async def process_callback_change_balance(callback_query: types.CallbackQuery):
+    if not user.get_user_admin_status(callback_query.from_user.id):
+        await callback_query.message.answer('Недостаточно прав!')
+        logging.logger_warn.warning(f'Пользователь {callback_query.from_user.id} пытался зайти в админ-панель!')
+    else:
+        await callback_query.message.answer(text='Введите ID пользователя и сумму через пробел')
+        logging.logger_info.info('Запрошены данные пользователя для изменения баланса')
+        await AdminStates.waiting_for_user_id_for_change_balance.set()
+
+async def block_user(message:types.Message, state: FSMContext):
+    if message.text.isdigit():
+        if not user.check_user_exists(int(message.text)):
+          await message.answer('Такого пользователя не существует! Проверьте данные') 
+          logging.logger_error.error(f'Введены некорректные данные для блокировки: ID {message.text} ')
+        else:
+            if user.get_user_block_status(int(message.text)):
+                await message.answer('Пользователь уже заблокирован!') 
+            else:
+                user.set_block(int(message.text))
+                await message.answer(f'Пользователь {message.text} теперь заблокирован!') 
+    else:
+        await message.answer('Пожалуйста, введите число!')
+        logging.logger_error.error('Введены некорректные данные для блокировки: не число')
+    await state.finish()                
+
+async def change_balance(message:types.Message, state: FSMContext):
+    data = message.text.split(' ')
+    user_id = int(data[0])
+    amount = int(data[1])
+    if not user.check_user_exists(user_id):
+          await message.answer('Такого пользователя не существует! Проверьте данные') 
+          logging.logger_error.error(f'Введены некорректные данные для блокировки: ID {message.text} ')
+    else:
+        if user.change_user_balance(user_id, amount):
+            await message.answer(f'Готово! Теперь на счету {user_id} {amount} рублей')
+            logging.logger_info.info(f'Баланс {user_id} изменен на {amount} рублей')
+        else:
+            await message.answer('Не удалось изменить баланс(')
+            logging.logger_crit.critical('ИЗМЕНЕНИЕ БАЛАНСА НЕ ВЫПОЛНЕНО!!!')
+    await state.finish()
 
 @dp.callback_query_handler(lambda c: c.data == 'request_for_sum')
 async def process_callback_top_up(callback_query: types.CallbackQuery, state='*'):
@@ -126,7 +190,6 @@ async def create_bill(message:types.Message, state: FSMContext):
         await message.answer('Пожалуйста, введите число!')
         logging.logger_info.info(f'Пользователь {message.from_user.id} ввел некорректные данные')
 
-
 @dp.callback_query_handler(lambda c: c.data == 'update')
 async def process_callback_balance_update(callback_query: types.CallbackQuery):
     if user.get_user_block_status(callback_query.from_user.id):
@@ -143,12 +206,13 @@ async def process_callback_balance_update(callback_query: types.CallbackQuery):
             user.change_user_balance(callback_query.from_user.id, new_balance)
             await callback_query.message.answer(text='Деньги зачислены')
             logging.logger_info.info(f'Деньги зачислены. Баланс пользователя {new_balance}')
-    await state.finish()
-            
+               
 
 if __name__ == "__main__":
     start_handler(dp)
     admin_handler(dp)
     create_bill_handler(dp)
+    admin_block_handler(dp)
+    admin_change_balance_handler(dp)
     executor.start_polling(dp, skip_updates=True)
     

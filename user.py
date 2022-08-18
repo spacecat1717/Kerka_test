@@ -220,11 +220,14 @@ class User():
                 )
                 values = (summ, user_id)
                 self.cursor.execute(command, values)
+                self.conn.commit()
                 self.logging.logger_info.info(f'Balance of user {user_id} was changed')
+                return True
             else:
                 self.logging.logger_error.error(f'User{user_id} does not exists!')
                 return False
         except (Exception, psycopg2.DatabaseError) as error:
             self.logging.logger_error.error('DB error:', error)
 
-
+#u = User()
+#print(u.get_user_balance(456))
